@@ -12,7 +12,8 @@ def dot_product(w, f):
             acc += w[i] * f[i]
 
         return acc
-    
+  
+# unused    
 def weights_diff(weight_old, weights_current):
     if (len(weight_old) != len(weights_current)):
         print("weight_old: ", weight_old)
@@ -58,12 +59,14 @@ class player_qlearn_attempt_aprox:
         # 5 features for version 1
         # 3 features for version 2
         # 2 features for version 3
+
+        # CHANGE FEATURE NUMBER HERE
         self.num_features_raise = 2
 
         # initalize vector of 0 for weights
         # 2 actions (raise, pass) with 5 features each
         self.w_raise = [0] * 2 * self.num_features_raise
-        # for determining convergance
+
         self.w_old_raise = []
 
         # for updating weights
@@ -118,6 +121,7 @@ class player_qlearn_attempt_aprox:
         self.alpha_attempt = 0.5
 
 
+    # logic for placing a card
     def choose_card_to_play(self, hand):
         if (1 in hand):
             place_skull = random.random()
@@ -128,12 +132,14 @@ class player_qlearn_attempt_aprox:
         else:
             return "place flower"
         
+    # switch agent from train to test mode
     def training_done(self):
         self.train_attempt = False
         self.train_raise = False
         
 
     #-------------------------APPROX Q FOR ATTEMPT---------------------------------    
+    # inc the number of eps after training
     def inc_num_eps_attempt(self):
         self.num_episodes_attempt += 1
         self.epsilon_attempt -= (1/(self.num_episodes_attempt+1))
@@ -142,6 +148,7 @@ class player_qlearn_attempt_aprox:
     def print_weights_attempt(self):
         print(self.w_attempt)
         
+    # evaluate all possible q values
     def evaluate_q_values_attempt(self, actions, played_length, hand_length):
         # get player nums from turn i
         players_avaliable = []
@@ -150,7 +157,7 @@ class player_qlearn_attempt_aprox:
             player = int(action.split()[1])
             players_avaliable.append(player)
 
-        #for each action avaible!
+        #for each action avaible
         q_values = {}
         for p in players_avaliable:
             # generate feature vector
@@ -166,14 +173,19 @@ class player_qlearn_attempt_aprox:
                     feature_vector.append(0)
                     feature_vector.append(0)
 
+            # dot product feature vector with weights
             q_value_for_action = dot_product(self.w_attempt, feature_vector)
             q_values[p] = q_value_for_action
 
+        # player with max Q valye is the next to turn
         player_to_turn = max(q_values, key=q_values.get)
+        # return info in the form of
+        # [player whos stack to turn, the length of players stack, the length of players hand, the q value of the turning player's stack]
         max_q_val_info = [player_to_turn, played_length[player_to_turn], hand_length[player_to_turn], max(q_values.values())]
 
         return max_q_val_info
     
+    # update the feature weights after performing turn action
     def update_q_values_attempt(self, reward, actions, played_length, hand_length, game_state):
         # get the important information from last q values
         player_turned = self.last_state_attempt[0]
@@ -195,6 +207,7 @@ class player_qlearn_attempt_aprox:
         difference = (reward + self.gamma_attempt * next_q) - self.last_q_value_attempt
 
         # update our weights
+        # since f_i for all non turned players will be 0 we only need to update player i's weights
         # update # of played for player i weight
         self.w_attempt[player_turned * 2] = self.w_attempt[player_turned * 2] + self.alpha_attempt * difference * turned_played_length
         # update # in hand for player i weight
@@ -213,11 +226,14 @@ class player_qlearn_attempt_aprox:
     # for debugging
     def print_weights_raise(self):
         print(self.w_raise)   
-        
+    
+    # CHANGE FEATUER SET HERE
+    # evaluate the q values in the raise phase
     def evaluate_q_values_raise(self, actions, played, player_in_attempt, played_length, max_bet):
         # calculate feature vector
         features = []
 
+        # uncomment whichever feature set you are using
         '''
         # feature 0 = 1/0 if we have a skull down
         # feature 1 = if we have a skull down 0 else # of flowers played
@@ -284,17 +300,13 @@ class player_qlearn_attempt_aprox:
         return max_q_val_info
 
     
+    # update the weights after raise action taken
     def update_q_values_raise(self, actions, played, player_in_attempt, played_length, max_bet, game_phase, attempt_outcome):
-        # feature 0 = 0/1 do we have a skull down
-        # feature 1 = if we havent played skull # of flowers down for us, else 0
-        # feature 2 = 0/1 are we currently the player in attempt
-        # feature 3 = # of opp cards down
-        # feature 4 = current max bet
 
         #save the old weights for fiding the difference
         self.w_old_raise = self.w_raise.copy()
         
-        # rewards is state dependent so we are calcuating it here
+        # rewards are state dependent so we are calcuating it here
         # did we reach a terminal state?
         if (game_phase == "attempt"):
             # other play is in attempt and we have a skull down
@@ -339,6 +351,8 @@ class player_qlearn_attempt_aprox:
         return [self.num_episodes_raise, w_diff, reward_result]
 
     #-------------------------APPROX Q PLAY ACTION MANAGER---------------------------------
+    # handles any forced actions (where player does not make a choice)
+    # no forced actions in attempt or raise phases, will not mess with our q learning
     def forced_actions(self, game_phase, hand):
         if (game_phase == "first_add"):
             if (1 not in hand):
@@ -351,68 +365,83 @@ class player_qlearn_attempt_aprox:
         
         return "unforced"
 
+    # takes in the state varibles known to the player and returns the action selection
     def chose_action(self, known):
         game_phase = known["game_phase"]
 
+        # if the action is forced return that
         if (self.forced_actions(game_phase, known["hand"]) != "unforced"):
             return self.forced_actions(game_phase, known["hand"])
 
+        # action for first add phase
         if (game_phase == "first_add"):
             return self.choose_card_to_play(known["hand"])
+        # action for add or bet phase
         elif(game_phase == "add_or_bet"):
             start_bet = random.random()
             if (start_bet > 0.5):
                 return "raise"
             else:
                 return self.choose_card_to_play(known["hand"])
+        # action for raise phase
+        # q learning occurs here!
         elif(game_phase == "raise"):
-            '''
-            raise_bet = random.random()
-            # will likely change
-            if (raise_bet > self.raise_threshold):
-                return "raise"
-            else:
-                return "pass"
-            '''
             played = known["played"]
             player_in_attempt = known["player_in_attempt"]
             played_length = known["length_of_played"]
             max_bet = known["max_bet"]
             actions = known["action_set"]
 
-
+            # if we are training the q agent
             if (self.train_raise):
+                # choose action accoding to greedy epsilon
+                # non random case
                 if (random.random() > self.epsilon_raise):
                     q_value_info = self.evaluate_q_values_raise(actions, played, player_in_attempt, played_length, max_bet)
+                    # save the state info for weight updates
                     self.last_action_raise = q_value_info[0]
                     self.last_state_raise = q_value_info[1]
                     self.last_q_value_raise = q_value_info[2]
                     return self.last_action_raise
+                # random case
                 else:
                     next_action = random.choice(known["action_set"])
                     q_value_info = self.evaluate_q_values_raise([next_action], played, player_in_attempt, played_length, max_bet)
+                    # save the state info for weight updates
                     self.last_action_raise = q_value_info[0]
                     self.last_state_raise = q_value_info[1]
                     self.last_q_value_raise = q_value_info[2]
                     return self.last_action_raise
+            # if we are testing q agent
+            # will always choose action with highest Q value
             else:
                 action_to_take = self.evaluate_q_values_raise(actions, played, player_in_attempt, played_length, max_bet)
                 return action_to_take[0]
+        # action for attempt phase
+        # q learning occurs here!
         else:
             played_length = known["length_of_played"]
             hand_length = known["length_of_cards"]
+            # if we are training the q agent
             if (self.train_attempt):
+                # choose action accoding to greedy epsilon
+                # non random case
                 if (random.random() > self.epsilon_attempt):
                     q_value_info = self.evaluate_q_values_attempt(known["action_set"], played_length, hand_length)
+                    # save the state info for weight updates
                     self.last_state_attempt = q_value_info[0:3]
                     self.last_q_value_attempt = q_value_info[3]
                     return "turn " + str(q_value_info[0])
+                # random case
                 else:
                     next_turn = random.choice(known["action_set"])
                     q_value_info = self.evaluate_q_values_attempt([next_turn], played_length, hand_length)
+                    # save the state info for weight updates
                     self.last_state_attempt = q_value_info[0:3]
                     self.last_q_value_attempt = q_value_info[3]
                     return next_turn
+            # if we are testing q agent
+            # will always choose action with highest Q value
             else:
                 player_to_turn = self.evaluate_q_values_attempt(known["action_set"], played_length, hand_length)
                 return "turn " + str(player_to_turn[0])

@@ -13,7 +13,7 @@ class skull_env():
         # a 1 is a skull, a 0 is a flower
         self.hands = [[0, 0, 0, 1] for i in range(player_num)]
         # cards will go from hand to
-        # treat at stack!
+        # treat at stack data structure!
         self.played_space = [[] for i in range(player_num)]
         # tracks players bets for betting phase
         # acculuator for the attempt phase
