@@ -1,0 +1,1001 @@
+,player_type,player,result
+0,"smart 2: 0, 0.4",1,win via score
+1,"smart 2: 0, 0.6",3,win via score
+2,approx q learning,0,win via score
+3,"smart 2: 0, 0.4",1,win via score
+4,"smart 2: 2, 0.6",2,win via score
+5,approx q learning,0,win via score
+6,"smart 2: 0, 0.4",1,win via score
+7,"smart 2: 0, 0.6",3,win via score
+8,"smart 2: 2, 0.6",2,win via score
+9,"smart 2: 2, 0.6",2,win via score
+10,"smart 2: 2, 0.6",2,win via elim
+11,"smart 2: 0, 0.4",1,win via score
+12,"smart 2: 2, 0.6",2,win via score
+13,"smart 2: 2, 0.6",2,win via score
+14,"smart 2: 2, 0.6",2,win via score
+15,"smart 2: 0, 0.4",1,win via score
+16,"smart 2: 0, 0.4",1,win via score
+17,"smart 2: 0, 0.4",1,win via score
+18,"smart 2: 0, 0.6",3,win via score
+19,"smart 2: 2, 0.6",2,win via score
+20,approx q learning,0,win via score
+21,"smart 2: 0, 0.6",3,win via score
+22,"smart 2: 0, 0.6",3,win via score
+23,"smart 2: 0, 0.4",1,win via score
+24,"smart 2: 0, 0.6",3,win via score
+25,"smart 2: 2, 0.6",2,win via score
+26,"smart 2: 0, 0.6",3,win via score
+27,"smart 2: 2, 0.6",2,win via score
+28,"smart 2: 0, 0.4",1,win via score
+29,"smart 2: 0, 0.6",3,win via score
+30,"smart 2: 0, 0.6",3,win via elim
+31,approx q learning,0,win via score
+32,"smart 2: 0, 0.4",1,win via score
+33,approx q learning,0,win via score
+34,approx q learning,0,win via score
+35,"smart 2: 2, 0.6",2,win via score
+36,"smart 2: 2, 0.6",2,win via score
+37,approx q learning,0,win via score
+38,"smart 2: 0, 0.6",3,win via score
+39,approx q learning,0,win via score
+40,"smart 2: 2, 0.6",2,win via score
+41,"smart 2: 0, 0.4",1,win via score
+42,"smart 2: 0, 0.6",3,win via score
+43,approx q learning,0,win via score
+44,"smart 2: 2, 0.6",2,win via score
+45,"smart 2: 2, 0.6",2,win via elim
+46,"smart 2: 2, 0.6",2,win via score
+47,"smart 2: 0, 0.6",3,win via score
+48,"smart 2: 2, 0.6",2,win via score
+49,"smart 2: 2, 0.6",2,win via elim
+50,"smart 2: 0, 0.6",3,win via score
+51,"smart 2: 2, 0.6",2,win via score
+52,"smart 2: 0, 0.6",3,win via score
+53,approx q learning,0,win via score
+54,"smart 2: 2, 0.6",2,win via elim
+55,approx q learning,0,win via score
+56,"smart 2: 0, 0.6",3,win via elim
+57,"smart 2: 2, 0.6",2,win via score
+58,"smart 2: 2, 0.6",2,win via score
+59,"smart 2: 2, 0.6",2,win via score
+60,"smart 2: 0, 0.4",1,win via score
+61,"smart 2: 0, 0.6",3,win via score
+62,approx q learning,0,win via score
+63,"smart 2: 2, 0.6",2,win via score
+64,"smart 2: 0, 0.6",3,win via elim
+65,"smart 2: 0, 0.6",3,win via score
+66,"smart 2: 0, 0.6",3,win via score
+67,"smart 2: 0, 0.6",3,win via score
+68,"smart 2: 0, 0.6",3,win via score
+69,"smart 2: 2, 0.6",2,win via score
+70,"smart 2: 0, 0.4",1,win via elim
+71,approx q learning,0,win via score
+72,"smart 2: 0, 0.6",3,win via elim
+73,"smart 2: 0, 0.4",1,win via score
+74,approx q learning,0,win via score
+75,"smart 2: 0, 0.4",1,win via score
+76,approx q learning,0,win via score
+77,"smart 2: 2, 0.6",2,win via score
+78,"smart 2: 0, 0.4",1,win via score
+79,approx q learning,0,win via score
+80,"smart 2: 0, 0.6",3,win via score
+81,"smart 2: 2, 0.6",2,win via score
+82,"smart 2: 0, 0.4",1,win via score
+83,"smart 2: 2, 0.6",2,win via score
+84,"smart 2: 2, 0.6",2,win via score
+85,"smart 2: 2, 0.6",2,win via score
+86,"smart 2: 2, 0.6",2,win via score
+87,"smart 2: 2, 0.6",2,win via score
+88,"smart 2: 2, 0.6",2,win via score
+89,"smart 2: 0, 0.6",3,win via score
+90,"smart 2: 2, 0.6",2,win via score
+91,"smart 2: 0, 0.4",1,win via score
+92,"smart 2: 0, 0.6",3,win via score
+93,"smart 2: 0, 0.6",3,win via score
+94,approx q learning,0,win via score
+95,"smart 2: 2, 0.6",2,win via score
+96,"smart 2: 0, 0.4",1,win via score
+97,"smart 2: 0, 0.6",3,win via score
+98,"smart 2: 0, 0.4",1,win via score
+99,"smart 2: 2, 0.6",2,win via score
+100,"smart 2: 0, 0.6",3,win via score
+101,"smart 2: 0, 0.6",3,win via score
+102,"smart 2: 0, 0.4",1,win via score
+103,"smart 2: 0, 0.6",3,win via score
+104,"smart 2: 0, 0.6",3,win via score
+105,"smart 2: 0, 0.6",3,win via score
+106,"smart 2: 2, 0.6",2,win via score
+107,"smart 2: 2, 0.6",2,win via score
+108,"smart 2: 0, 0.6",3,win via score
+109,"smart 2: 0, 0.6",3,win via score
+110,"smart 2: 0, 0.4",1,win via score
+111,"smart 2: 0, 0.6",3,win via score
+112,"smart 2: 0, 0.4",1,win via score
+113,approx q learning,0,win via score
+114,"smart 2: 2, 0.6",2,win via score
+115,approx q learning,0,win via score
+116,"smart 2: 2, 0.6",2,win via score
+117,"smart 2: 2, 0.6",2,win via score
+118,"smart 2: 0, 0.6",3,win via score
+119,"smart 2: 2, 0.6",2,win via score
+120,"smart 2: 0, 0.6",3,win via elim
+121,"smart 2: 2, 0.6",2,win via score
+122,approx q learning,0,win via score
+123,"smart 2: 0, 0.4",1,win via elim
+124,"smart 2: 0, 0.6",3,win via elim
+125,"smart 2: 0, 0.6",3,win via score
+126,"smart 2: 0, 0.4",1,win via score
+127,"smart 2: 0, 0.4",1,win via score
+128,"smart 2: 0, 0.6",3,win via score
+129,"smart 2: 0, 0.6",3,win via score
+130,"smart 2: 0, 0.6",3,win via elim
+131,"smart 2: 0, 0.6",3,win via score
+132,"smart 2: 0, 0.6",3,win via elim
+133,approx q learning,0,win via score
+134,"smart 2: 0, 0.4",1,win via score
+135,"smart 2: 0, 0.6",3,win via score
+136,"smart 2: 0, 0.6",3,win via score
+137,"smart 2: 2, 0.6",2,win via score
+138,"smart 2: 0, 0.6",3,win via score
+139,"smart 2: 2, 0.6",2,win via score
+140,"smart 2: 0, 0.6",3,win via elim
+141,"smart 2: 0, 0.4",1,win via score
+142,"smart 2: 0, 0.4",1,win via score
+143,"smart 2: 2, 0.6",2,win via score
+144,"smart 2: 0, 0.6",3,win via score
+145,"smart 2: 2, 0.6",2,win via score
+146,"smart 2: 0, 0.4",1,win via score
+147,"smart 2: 2, 0.6",2,win via score
+148,"smart 2: 0, 0.4",1,win via score
+149,"smart 2: 2, 0.6",2,win via score
+150,"smart 2: 0, 0.6",3,win via score
+151,"smart 2: 2, 0.6",2,win via score
+152,"smart 2: 0, 0.4",1,win via score
+153,"smart 2: 0, 0.4",1,win via score
+154,"smart 2: 2, 0.6",2,win via elim
+155,"smart 2: 2, 0.6",2,win via score
+156,"smart 2: 0, 0.6",3,win via score
+157,"smart 2: 2, 0.6",2,win via score
+158,"smart 2: 0, 0.6",3,win via score
+159,approx q learning,0,win via score
+160,"smart 2: 0, 0.6",3,win via score
+161,"smart 2: 2, 0.6",2,win via elim
+162,"smart 2: 0, 0.6",3,win via score
+163,approx q learning,0,win via score
+164,"smart 2: 0, 0.6",3,win via score
+165,"smart 2: 0, 0.6",3,win via elim
+166,"smart 2: 0, 0.6",3,win via score
+167,"smart 2: 0, 0.6",3,win via score
+168,"smart 2: 0, 0.6",3,win via score
+169,"smart 2: 2, 0.6",2,win via elim
+170,"smart 2: 0, 0.4",1,win via score
+171,approx q learning,0,win via score
+172,"smart 2: 2, 0.6",2,win via elim
+173,"smart 2: 2, 0.6",2,win via score
+174,"smart 2: 0, 0.4",1,win via score
+175,"smart 2: 0, 0.4",1,win via score
+176,"smart 2: 0, 0.4",1,win via score
+177,"smart 2: 0, 0.6",3,win via score
+178,"smart 2: 2, 0.6",2,win via score
+179,approx q learning,0,win via score
+180,"smart 2: 2, 0.6",2,win via score
+181,"smart 2: 0, 0.4",1,win via score
+182,"smart 2: 2, 0.6",2,win via score
+183,"smart 2: 2, 0.6",2,win via score
+184,"smart 2: 2, 0.6",2,win via score
+185,"smart 2: 0, 0.6",3,win via score
+186,"smart 2: 0, 0.4",1,win via score
+187,"smart 2: 0, 0.6",3,win via elim
+188,approx q learning,0,win via score
+189,"smart 2: 0, 0.6",3,win via score
+190,"smart 2: 2, 0.6",2,win via elim
+191,"smart 2: 0, 0.6",3,win via score
+192,"smart 2: 0, 0.6",3,win via elim
+193,"smart 2: 0, 0.4",1,win via score
+194,approx q learning,0,win via score
+195,"smart 2: 0, 0.4",1,win via score
+196,"smart 2: 2, 0.6",2,win via score
+197,"smart 2: 0, 0.6",3,win via score
+198,"smart 2: 0, 0.6",3,win via score
+199,"smart 2: 0, 0.4",1,win via score
+200,"smart 2: 2, 0.6",2,win via score
+201,"smart 2: 2, 0.6",2,win via score
+202,"smart 2: 2, 0.6",2,win via score
+203,"smart 2: 0, 0.6",3,win via score
+204,"smart 2: 0, 0.6",3,win via score
+205,"smart 2: 2, 0.6",2,win via score
+206,"smart 2: 0, 0.6",3,win via score
+207,approx q learning,0,win via score
+208,"smart 2: 0, 0.4",1,win via score
+209,"smart 2: 2, 0.6",2,win via score
+210,approx q learning,0,win via score
+211,"smart 2: 0, 0.6",3,win via score
+212,approx q learning,0,win via score
+213,approx q learning,0,win via score
+214,"smart 2: 2, 0.6",2,win via elim
+215,approx q learning,0,win via score
+216,"smart 2: 0, 0.6",3,win via score
+217,"smart 2: 0, 0.4",1,win via score
+218,approx q learning,0,win via score
+219,"smart 2: 0, 0.4",1,win via score
+220,"smart 2: 0, 0.4",1,win via score
+221,approx q learning,0,win via score
+222,"smart 2: 2, 0.6",2,win via score
+223,"smart 2: 2, 0.6",2,win via score
+224,"smart 2: 0, 0.4",1,win via score
+225,"smart 2: 2, 0.6",2,win via score
+226,"smart 2: 2, 0.6",2,win via elim
+227,"smart 2: 0, 0.4",1,win via score
+228,approx q learning,0,win via score
+229,"smart 2: 0, 0.4",1,win via score
+230,"smart 2: 2, 0.6",2,win via score
+231,"smart 2: 2, 0.6",2,win via elim
+232,"smart 2: 0, 0.4",1,win via score
+233,"smart 2: 0, 0.6",3,win via score
+234,"smart 2: 0, 0.4",1,win via score
+235,approx q learning,0,win via score
+236,"smart 2: 0, 0.4",1,win via score
+237,"smart 2: 0, 0.6",3,win via score
+238,"smart 2: 2, 0.6",2,win via score
+239,"smart 2: 2, 0.6",2,win via score
+240,"smart 2: 2, 0.6",2,win via elim
+241,approx q learning,0,win via score
+242,"smart 2: 0, 0.6",3,win via score
+243,"smart 2: 0, 0.4",1,win via score
+244,"smart 2: 0, 0.6",3,win via score
+245,approx q learning,0,win via score
+246,"smart 2: 0, 0.4",1,win via score
+247,"smart 2: 2, 0.6",2,win via score
+248,"smart 2: 2, 0.6",2,win via score
+249,"smart 2: 2, 0.6",2,win via score
+250,"smart 2: 2, 0.6",2,win via score
+251,"smart 2: 0, 0.6",3,win via score
+252,"smart 2: 0, 0.4",1,win via score
+253,"smart 2: 2, 0.6",2,win via score
+254,"smart 2: 0, 0.6",3,win via elim
+255,"smart 2: 2, 0.6",2,win via score
+256,"smart 2: 2, 0.6",2,win via score
+257,"smart 2: 0, 0.6",3,win via score
+258,"smart 2: 2, 0.6",2,win via score
+259,"smart 2: 0, 0.4",1,win via score
+260,"smart 2: 2, 0.6",2,win via score
+261,"smart 2: 2, 0.6",2,win via elim
+262,"smart 2: 0, 0.6",3,win via elim
+263,"smart 2: 2, 0.6",2,win via score
+264,approx q learning,0,win via score
+265,"smart 2: 2, 0.6",2,win via score
+266,"smart 2: 0, 0.6",3,win via score
+267,approx q learning,0,win via score
+268,"smart 2: 2, 0.6",2,win via score
+269,"smart 2: 0, 0.4",1,win via score
+270,"smart 2: 0, 0.4",1,win via score
+271,"smart 2: 2, 0.6",2,win via score
+272,"smart 2: 2, 0.6",2,win via score
+273,"smart 2: 0, 0.6",3,win via score
+274,"smart 2: 0, 0.6",3,win via score
+275,"smart 2: 2, 0.6",2,win via score
+276,"smart 2: 2, 0.6",2,win via score
+277,"smart 2: 0, 0.4",1,win via score
+278,"smart 2: 2, 0.6",2,win via score
+279,"smart 2: 2, 0.6",2,win via elim
+280,"smart 2: 2, 0.6",2,win via score
+281,"smart 2: 2, 0.6",2,win via score
+282,"smart 2: 2, 0.6",2,win via score
+283,"smart 2: 0, 0.6",3,win via score
+284,approx q learning,0,win via score
+285,"smart 2: 2, 0.6",2,win via elim
+286,approx q learning,0,win via score
+287,"smart 2: 0, 0.4",1,win via score
+288,"smart 2: 2, 0.6",2,win via score
+289,"smart 2: 0, 0.6",3,win via score
+290,"smart 2: 2, 0.6",2,win via score
+291,"smart 2: 0, 0.4",1,win via score
+292,"smart 2: 0, 0.4",1,win via score
+293,"smart 2: 2, 0.6",2,win via score
+294,approx q learning,0,win via score
+295,"smart 2: 0, 0.4",1,win via score
+296,"smart 2: 2, 0.6",2,win via score
+297,"smart 2: 2, 0.6",2,win via score
+298,"smart 2: 2, 0.6",2,win via score
+299,"smart 2: 2, 0.6",2,win via score
+300,"smart 2: 0, 0.6",3,win via score
+301,"smart 2: 2, 0.6",2,win via score
+302,"smart 2: 2, 0.6",2,win via score
+303,approx q learning,0,win via score
+304,"smart 2: 0, 0.4",1,win via score
+305,"smart 2: 0, 0.4",1,win via score
+306,"smart 2: 2, 0.6",2,win via score
+307,approx q learning,0,win via score
+308,"smart 2: 0, 0.6",3,win via score
+309,"smart 2: 0, 0.6",3,win via elim
+310,"smart 2: 2, 0.6",2,win via score
+311,"smart 2: 0, 0.4",1,win via score
+312,"smart 2: 2, 0.6",2,win via score
+313,"smart 2: 0, 0.4",1,win via elim
+314,"smart 2: 0, 0.4",1,win via elim
+315,"smart 2: 0, 0.6",3,win via elim
+316,"smart 2: 2, 0.6",2,win via score
+317,"smart 2: 0, 0.6",3,win via score
+318,"smart 2: 0, 0.4",1,win via score
+319,approx q learning,0,win via score
+320,"smart 2: 0, 0.4",1,win via score
+321,"smart 2: 0, 0.6",3,win via score
+322,approx q learning,0,win via score
+323,"smart 2: 0, 0.6",3,win via score
+324,"smart 2: 2, 0.6",2,win via score
+325,approx q learning,0,win via score
+326,approx q learning,0,win via score
+327,"smart 2: 0, 0.4",1,win via score
+328,"smart 2: 0, 0.6",3,win via score
+329,approx q learning,0,win via score
+330,"smart 2: 2, 0.6",2,win via score
+331,"smart 2: 2, 0.6",2,win via score
+332,"smart 2: 0, 0.4",1,win via score
+333,"smart 2: 0, 0.4",1,win via score
+334,"smart 2: 0, 0.6",3,win via score
+335,approx q learning,0,win via score
+336,"smart 2: 0, 0.6",3,win via score
+337,"smart 2: 0, 0.4",1,win via elim
+338,"smart 2: 2, 0.6",2,win via score
+339,"smart 2: 0, 0.6",3,win via score
+340,"smart 2: 0, 0.6",3,win via score
+341,approx q learning,0,win via score
+342,approx q learning,0,win via score
+343,"smart 2: 0, 0.6",3,win via score
+344,"smart 2: 0, 0.4",1,win via score
+345,approx q learning,0,win via score
+346,"smart 2: 2, 0.6",2,win via score
+347,"smart 2: 2, 0.6",2,win via score
+348,"smart 2: 0, 0.6",3,win via score
+349,"smart 2: 0, 0.4",1,win via score
+350,"smart 2: 0, 0.6",3,win via score
+351,"smart 2: 2, 0.6",2,win via score
+352,"smart 2: 2, 0.6",2,win via score
+353,"smart 2: 0, 0.4",1,win via score
+354,"smart 2: 0, 0.6",3,win via score
+355,approx q learning,0,win via score
+356,"smart 2: 0, 0.6",3,win via score
+357,"smart 2: 0, 0.4",1,win via score
+358,"smart 2: 0, 0.6",3,win via elim
+359,"smart 2: 2, 0.6",2,win via elim
+360,"smart 2: 0, 0.6",3,win via elim
+361,"smart 2: 0, 0.6",3,win via score
+362,"smart 2: 0, 0.6",3,win via score
+363,"smart 2: 0, 0.4",1,win via score
+364,"smart 2: 2, 0.6",2,win via score
+365,"smart 2: 2, 0.6",2,win via score
+366,approx q learning,0,win via score
+367,"smart 2: 2, 0.6",2,win via score
+368,"smart 2: 0, 0.6",3,win via score
+369,"smart 2: 0, 0.6",3,win via score
+370,"smart 2: 0, 0.6",3,win via score
+371,"smart 2: 2, 0.6",2,win via elim
+372,"smart 2: 0, 0.6",3,win via score
+373,"smart 2: 0, 0.6",3,win via elim
+374,approx q learning,0,win via score
+375,"smart 2: 2, 0.6",2,win via score
+376,"smart 2: 0, 0.4",1,win via score
+377,"smart 2: 0, 0.4",1,win via score
+378,"smart 2: 0, 0.4",1,win via score
+379,"smart 2: 2, 0.6",2,win via score
+380,approx q learning,0,win via score
+381,"smart 2: 2, 0.6",2,win via score
+382,"smart 2: 2, 0.6",2,win via score
+383,"smart 2: 0, 0.4",1,win via score
+384,"smart 2: 2, 0.6",2,win via score
+385,"smart 2: 0, 0.6",3,win via score
+386,"smart 2: 0, 0.4",1,win via score
+387,"smart 2: 0, 0.6",3,win via score
+388,approx q learning,0,win via score
+389,"smart 2: 0, 0.4",1,win via score
+390,approx q learning,0,win via score
+391,"smart 2: 0, 0.6",3,win via score
+392,"smart 2: 2, 0.6",2,win via score
+393,"smart 2: 2, 0.6",2,win via score
+394,"smart 2: 2, 0.6",2,win via elim
+395,"smart 2: 0, 0.4",1,win via elim
+396,"smart 2: 0, 0.4",1,win via score
+397,"smart 2: 2, 0.6",2,win via elim
+398,"smart 2: 0, 0.4",1,win via elim
+399,"smart 2: 2, 0.6",2,win via score
+400,"smart 2: 2, 0.6",2,win via score
+401,approx q learning,0,win via score
+402,approx q learning,0,win via score
+403,"smart 2: 0, 0.6",3,win via score
+404,approx q learning,0,win via score
+405,"smart 2: 2, 0.6",2,win via score
+406,approx q learning,0,win via score
+407,"smart 2: 0, 0.6",3,win via elim
+408,approx q learning,0,win via score
+409,"smart 2: 0, 0.4",1,win via score
+410,"smart 2: 0, 0.6",3,win via score
+411,"smart 2: 0, 0.6",3,win via score
+412,"smart 2: 2, 0.6",2,win via score
+413,"smart 2: 0, 0.6",3,win via score
+414,"smart 2: 2, 0.6",2,win via score
+415,"smart 2: 2, 0.6",2,win via score
+416,approx q learning,0,win via score
+417,"smart 2: 0, 0.4",1,win via score
+418,"smart 2: 0, 0.4",1,win via score
+419,"smart 2: 2, 0.6",2,win via score
+420,"smart 2: 0, 0.6",3,win via score
+421,approx q learning,0,win via score
+422,approx q learning,0,win via score
+423,"smart 2: 2, 0.6",2,win via score
+424,"smart 2: 0, 0.6",3,win via score
+425,"smart 2: 0, 0.6",3,win via score
+426,"smart 2: 0, 0.4",1,win via score
+427,"smart 2: 2, 0.6",2,win via elim
+428,"smart 2: 2, 0.6",2,win via score
+429,"smart 2: 2, 0.6",2,win via score
+430,"smart 2: 0, 0.4",1,win via elim
+431,"smart 2: 0, 0.6",3,win via elim
+432,"smart 2: 0, 0.6",3,win via score
+433,"smart 2: 2, 0.6",2,win via score
+434,approx q learning,0,win via score
+435,"smart 2: 2, 0.6",2,win via score
+436,"smart 2: 0, 0.4",1,win via score
+437,"smart 2: 0, 0.6",3,win via score
+438,"smart 2: 0, 0.4",1,win via score
+439,"smart 2: 2, 0.6",2,win via elim
+440,"smart 2: 0, 0.4",1,win via score
+441,approx q learning,0,win via score
+442,"smart 2: 0, 0.6",3,win via score
+443,approx q learning,0,win via score
+444,approx q learning,0,win via score
+445,"smart 2: 2, 0.6",2,win via elim
+446,approx q learning,0,win via score
+447,"smart 2: 2, 0.6",2,win via score
+448,"smart 2: 2, 0.6",2,win via score
+449,"smart 2: 0, 0.4",1,win via score
+450,"smart 2: 0, 0.6",3,win via score
+451,"smart 2: 2, 0.6",2,win via score
+452,"smart 2: 0, 0.4",1,win via score
+453,"smart 2: 0, 0.6",3,win via score
+454,approx q learning,0,win via score
+455,"smart 2: 0, 0.6",3,win via score
+456,"smart 2: 2, 0.6",2,win via score
+457,"smart 2: 2, 0.6",2,win via elim
+458,"smart 2: 0, 0.6",3,win via score
+459,"smart 2: 2, 0.6",2,win via score
+460,"smart 2: 0, 0.4",1,win via score
+461,"smart 2: 0, 0.4",1,win via score
+462,"smart 2: 2, 0.6",2,win via score
+463,"smart 2: 0, 0.4",1,win via score
+464,"smart 2: 0, 0.6",3,win via score
+465,"smart 2: 0, 0.4",1,win via score
+466,"smart 2: 0, 0.6",3,win via score
+467,"smart 2: 0, 0.6",3,win via score
+468,approx q learning,0,win via score
+469,"smart 2: 2, 0.6",2,win via score
+470,"smart 2: 0, 0.4",1,win via score
+471,"smart 2: 0, 0.6",3,win via score
+472,"smart 2: 0, 0.6",3,win via score
+473,approx q learning,0,win via score
+474,"smart 2: 2, 0.6",2,win via score
+475,"smart 2: 0, 0.4",1,win via score
+476,"smart 2: 0, 0.6",3,win via score
+477,"smart 2: 2, 0.6",2,win via score
+478,"smart 2: 2, 0.6",2,win via score
+479,"smart 2: 0, 0.6",3,win via score
+480,"smart 2: 0, 0.6",3,win via elim
+481,"smart 2: 2, 0.6",2,win via score
+482,"smart 2: 2, 0.6",2,win via score
+483,"smart 2: 2, 0.6",2,win via score
+484,"smart 2: 2, 0.6",2,win via score
+485,approx q learning,0,win via score
+486,"smart 2: 0, 0.6",3,win via elim
+487,"smart 2: 0, 0.6",3,win via elim
+488,approx q learning,0,win via score
+489,"smart 2: 0, 0.6",3,win via score
+490,"smart 2: 0, 0.4",1,win via score
+491,"smart 2: 2, 0.6",2,win via score
+492,"smart 2: 0, 0.6",3,win via score
+493,"smart 2: 0, 0.6",3,win via score
+494,approx q learning,0,win via score
+495,"smart 2: 0, 0.6",3,win via score
+496,"smart 2: 2, 0.6",2,win via score
+497,"smart 2: 0, 0.4",1,win via elim
+498,approx q learning,0,win via score
+499,"smart 2: 2, 0.6",2,win via elim
+500,"smart 2: 0, 0.6",3,win via score
+501,"smart 2: 2, 0.6",2,win via score
+502,"smart 2: 0, 0.6",3,win via score
+503,"smart 2: 0, 0.4",1,win via score
+504,"smart 2: 2, 0.6",2,win via score
+505,"smart 2: 0, 0.4",1,win via score
+506,"smart 2: 2, 0.6",2,win via score
+507,approx q learning,0,win via score
+508,"smart 2: 2, 0.6",2,win via score
+509,"smart 2: 0, 0.4",1,win via score
+510,"smart 2: 0, 0.4",1,win via score
+511,"smart 2: 2, 0.6",2,win via score
+512,"smart 2: 0, 0.6",3,win via elim
+513,"smart 2: 2, 0.6",2,win via score
+514,"smart 2: 2, 0.6",2,win via score
+515,"smart 2: 2, 0.6",2,win via score
+516,"smart 2: 2, 0.6",2,win via score
+517,"smart 2: 2, 0.6",2,win via score
+518,"smart 2: 2, 0.6",2,win via score
+519,"smart 2: 2, 0.6",2,win via score
+520,"smart 2: 0, 0.6",3,win via score
+521,"smart 2: 2, 0.6",2,win via score
+522,"smart 2: 2, 0.6",2,win via score
+523,approx q learning,0,win via score
+524,"smart 2: 0, 0.6",3,win via score
+525,"smart 2: 0, 0.6",3,win via score
+526,"smart 2: 2, 0.6",2,win via score
+527,"smart 2: 0, 0.4",1,win via score
+528,"smart 2: 0, 0.4",1,win via score
+529,"smart 2: 2, 0.6",2,win via score
+530,"smart 2: 0, 0.4",1,win via score
+531,approx q learning,0,win via score
+532,"smart 2: 0, 0.6",3,win via score
+533,"smart 2: 2, 0.6",2,win via score
+534,"smart 2: 2, 0.6",2,win via score
+535,"smart 2: 2, 0.6",2,win via score
+536,approx q learning,0,win via score
+537,"smart 2: 0, 0.4",1,win via score
+538,"smart 2: 0, 0.4",1,win via score
+539,"smart 2: 0, 0.6",3,win via score
+540,"smart 2: 0, 0.4",1,win via score
+541,"smart 2: 2, 0.6",2,win via score
+542,"smart 2: 2, 0.6",2,win via score
+543,"smart 2: 0, 0.4",1,win via score
+544,"smart 2: 2, 0.6",2,win via score
+545,"smart 2: 2, 0.6",2,win via score
+546,"smart 2: 0, 0.4",1,win via score
+547,"smart 2: 2, 0.6",2,win via score
+548,"smart 2: 0, 0.6",3,win via score
+549,approx q learning,0,win via score
+550,"smart 2: 0, 0.4",1,win via score
+551,"smart 2: 0, 0.4",1,win via score
+552,"smart 2: 2, 0.6",2,win via score
+553,approx q learning,0,win via score
+554,"smart 2: 2, 0.6",2,win via score
+555,"smart 2: 0, 0.4",1,win via score
+556,"smart 2: 0, 0.6",3,win via score
+557,"smart 2: 0, 0.6",3,win via elim
+558,"smart 2: 0, 0.6",3,win via score
+559,approx q learning,0,win via score
+560,"smart 2: 2, 0.6",2,win via score
+561,"smart 2: 2, 0.6",2,win via score
+562,"smart 2: 2, 0.6",2,win via score
+563,"smart 2: 0, 0.4",1,win via score
+564,"smart 2: 2, 0.6",2,win via score
+565,"smart 2: 2, 0.6",2,win via score
+566,approx q learning,0,win via score
+567,approx q learning,0,win via score
+568,"smart 2: 0, 0.4",1,win via score
+569,"smart 2: 0, 0.6",3,win via score
+570,"smart 2: 0, 0.6",3,win via elim
+571,"smart 2: 2, 0.6",2,win via score
+572,"smart 2: 2, 0.6",2,win via score
+573,"smart 2: 2, 0.6",2,win via score
+574,approx q learning,0,win via score
+575,"smart 2: 0, 0.6",3,win via score
+576,"smart 2: 2, 0.6",2,win via score
+577,"smart 2: 0, 0.6",3,win via score
+578,"smart 2: 0, 0.4",1,win via score
+579,"smart 2: 0, 0.6",3,win via score
+580,approx q learning,0,win via score
+581,"smart 2: 2, 0.6",2,win via score
+582,"smart 2: 0, 0.6",3,win via score
+583,"smart 2: 0, 0.4",1,win via score
+584,"smart 2: 0, 0.6",3,win via score
+585,"smart 2: 0, 0.4",1,win via score
+586,"smart 2: 0, 0.6",3,win via score
+587,"smart 2: 0, 0.4",1,win via score
+588,"smart 2: 0, 0.6",3,win via score
+589,"smart 2: 0, 0.4",1,win via elim
+590,"smart 2: 2, 0.6",2,win via score
+591,"smart 2: 2, 0.6",2,win via score
+592,"smart 2: 2, 0.6",2,win via score
+593,"smart 2: 0, 0.6",3,win via score
+594,"smart 2: 0, 0.4",1,win via score
+595,"smart 2: 0, 0.4",1,win via score
+596,"smart 2: 0, 0.4",1,win via score
+597,"smart 2: 2, 0.6",2,win via elim
+598,"smart 2: 2, 0.6",2,win via score
+599,"smart 2: 0, 0.6",3,win via elim
+600,"smart 2: 2, 0.6",2,win via score
+601,"smart 2: 2, 0.6",2,win via score
+602,"smart 2: 0, 0.4",1,win via score
+603,"smart 2: 2, 0.6",2,win via score
+604,"smart 2: 2, 0.6",2,win via score
+605,"smart 2: 2, 0.6",2,win via score
+606,approx q learning,0,win via score
+607,"smart 2: 2, 0.6",2,win via elim
+608,"smart 2: 0, 0.4",1,win via score
+609,"smart 2: 0, 0.6",3,win via score
+610,"smart 2: 0, 0.4",1,win via score
+611,"smart 2: 0, 0.6",3,win via score
+612,"smart 2: 2, 0.6",2,win via score
+613,"smart 2: 0, 0.4",1,win via score
+614,"smart 2: 2, 0.6",2,win via score
+615,"smart 2: 0, 0.6",3,win via score
+616,"smart 2: 2, 0.6",2,win via score
+617,"smart 2: 2, 0.6",2,win via elim
+618,"smart 2: 0, 0.4",1,win via elim
+619,"smart 2: 0, 0.6",3,win via elim
+620,"smart 2: 2, 0.6",2,win via score
+621,"smart 2: 0, 0.6",3,win via score
+622,"smart 2: 2, 0.6",2,win via score
+623,"smart 2: 0, 0.6",3,win via score
+624,"smart 2: 2, 0.6",2,win via score
+625,"smart 2: 2, 0.6",2,win via score
+626,"smart 2: 0, 0.6",3,win via elim
+627,"smart 2: 2, 0.6",2,win via score
+628,"smart 2: 0, 0.6",3,win via score
+629,"smart 2: 0, 0.6",3,win via score
+630,approx q learning,0,win via score
+631,"smart 2: 2, 0.6",2,win via score
+632,approx q learning,0,win via score
+633,"smart 2: 0, 0.6",3,win via score
+634,"smart 2: 2, 0.6",2,win via score
+635,"smart 2: 0, 0.6",3,win via score
+636,"smart 2: 0, 0.6",3,win via score
+637,approx q learning,0,win via score
+638,"smart 2: 2, 0.6",2,win via score
+639,"smart 2: 0, 0.4",1,win via score
+640,"smart 2: 0, 0.4",1,win via elim
+641,"smart 2: 0, 0.4",1,win via score
+642,approx q learning,0,win via score
+643,"smart 2: 2, 0.6",2,win via score
+644,"smart 2: 2, 0.6",2,win via elim
+645,approx q learning,0,win via score
+646,"smart 2: 2, 0.6",2,win via elim
+647,"smart 2: 0, 0.6",3,win via score
+648,"smart 2: 0, 0.6",3,win via score
+649,"smart 2: 0, 0.4",1,win via score
+650,"smart 2: 2, 0.6",2,win via score
+651,"smart 2: 2, 0.6",2,win via elim
+652,"smart 2: 0, 0.6",3,win via score
+653,"smart 2: 0, 0.6",3,win via score
+654,"smart 2: 0, 0.6",3,win via score
+655,"smart 2: 2, 0.6",2,win via score
+656,"smart 2: 0, 0.4",1,win via score
+657,"smart 2: 0, 0.6",3,win via score
+658,approx q learning,0,win via score
+659,"smart 2: 0, 0.6",3,win via score
+660,"smart 2: 2, 0.6",2,win via elim
+661,"smart 2: 2, 0.6",2,win via score
+662,approx q learning,0,win via score
+663,"smart 2: 2, 0.6",2,win via elim
+664,approx q learning,0,win via score
+665,approx q learning,0,win via score
+666,approx q learning,0,win via score
+667,"smart 2: 0, 0.4",1,win via score
+668,"smart 2: 2, 0.6",2,win via score
+669,"smart 2: 2, 0.6",2,win via score
+670,approx q learning,0,win via score
+671,"smart 2: 0, 0.6",3,win via score
+672,"smart 2: 2, 0.6",2,win via score
+673,"smart 2: 0, 0.6",3,win via score
+674,"smart 2: 2, 0.6",2,win via elim
+675,"smart 2: 2, 0.6",2,win via elim
+676,"smart 2: 0, 0.6",3,win via score
+677,"smart 2: 0, 0.6",3,win via score
+678,"smart 2: 2, 0.6",2,win via score
+679,"smart 2: 0, 0.4",1,win via score
+680,"smart 2: 0, 0.6",3,win via score
+681,"smart 2: 0, 0.4",1,win via score
+682,"smart 2: 0, 0.4",1,win via score
+683,"smart 2: 0, 0.6",3,win via score
+684,"smart 2: 2, 0.6",2,win via score
+685,"smart 2: 2, 0.6",2,win via score
+686,"smart 2: 2, 0.6",2,win via score
+687,approx q learning,0,win via score
+688,approx q learning,0,win via score
+689,"smart 2: 0, 0.4",1,win via score
+690,"smart 2: 2, 0.6",2,win via score
+691,"smart 2: 2, 0.6",2,win via elim
+692,"smart 2: 0, 0.6",3,win via score
+693,"smart 2: 0, 0.6",3,win via elim
+694,approx q learning,0,win via score
+695,"smart 2: 0, 0.6",3,win via score
+696,"smart 2: 2, 0.6",2,win via score
+697,approx q learning,0,win via score
+698,"smart 2: 0, 0.4",1,win via score
+699,"smart 2: 2, 0.6",2,win via score
+700,"smart 2: 0, 0.4",1,win via score
+701,"smart 2: 0, 0.6",3,win via score
+702,"smart 2: 0, 0.6",3,win via score
+703,"smart 2: 2, 0.6",2,win via score
+704,"smart 2: 2, 0.6",2,win via score
+705,approx q learning,0,win via score
+706,"smart 2: 2, 0.6",2,win via score
+707,"smart 2: 2, 0.6",2,win via score
+708,"smart 2: 0, 0.4",1,win via elim
+709,"smart 2: 2, 0.6",2,win via score
+710,"smart 2: 0, 0.6",3,win via score
+711,"smart 2: 0, 0.6",3,win via score
+712,"smart 2: 0, 0.4",1,win via elim
+713,"smart 2: 0, 0.6",3,win via score
+714,"smart 2: 2, 0.6",2,win via score
+715,"smart 2: 2, 0.6",2,win via elim
+716,approx q learning,0,win via score
+717,"smart 2: 2, 0.6",2,win via score
+718,"smart 2: 0, 0.6",3,win via elim
+719,"smart 2: 0, 0.6",3,win via score
+720,"smart 2: 0, 0.6",3,win via score
+721,"smart 2: 2, 0.6",2,win via score
+722,"smart 2: 0, 0.4",1,win via score
+723,"smart 2: 0, 0.6",3,win via score
+724,approx q learning,0,win via score
+725,"smart 2: 0, 0.6",3,win via score
+726,"smart 2: 0, 0.4",1,win via score
+727,"smart 2: 0, 0.4",1,win via score
+728,"smart 2: 0, 0.6",3,win via score
+729,approx q learning,0,win via score
+730,"smart 2: 0, 0.4",1,win via score
+731,"smart 2: 2, 0.6",2,win via score
+732,"smart 2: 2, 0.6",2,win via score
+733,"smart 2: 0, 0.6",3,win via score
+734,"smart 2: 0, 0.6",3,win via score
+735,"smart 2: 0, 0.4",1,win via score
+736,approx q learning,0,win via score
+737,"smart 2: 0, 0.4",1,win via score
+738,"smart 2: 2, 0.6",2,win via score
+739,approx q learning,0,win via score
+740,"smart 2: 2, 0.6",2,win via score
+741,"smart 2: 0, 0.4",1,win via score
+742,"smart 2: 0, 0.4",1,win via score
+743,"smart 2: 0, 0.6",3,win via score
+744,"smart 2: 0, 0.6",3,win via score
+745,approx q learning,0,win via score
+746,"smart 2: 0, 0.4",1,win via score
+747,"smart 2: 0, 0.4",1,win via score
+748,"smart 2: 2, 0.6",2,win via score
+749,"smart 2: 0, 0.4",1,win via score
+750,"smart 2: 0, 0.4",1,win via score
+751,"smart 2: 0, 0.4",1,win via elim
+752,"smart 2: 2, 0.6",2,win via elim
+753,"smart 2: 0, 0.4",1,win via score
+754,"smart 2: 2, 0.6",2,win via score
+755,"smart 2: 0, 0.6",3,win via elim
+756,"smart 2: 0, 0.6",3,win via elim
+757,"smart 2: 0, 0.4",1,win via score
+758,"smart 2: 0, 0.6",3,win via score
+759,"smart 2: 2, 0.6",2,win via score
+760,approx q learning,0,win via score
+761,"smart 2: 0, 0.4",1,win via score
+762,"smart 2: 2, 0.6",2,win via score
+763,approx q learning,0,win via score
+764,"smart 2: 0, 0.4",1,win via score
+765,"smart 2: 0, 0.6",3,win via score
+766,"smart 2: 0, 0.6",3,win via score
+767,"smart 2: 0, 0.4",1,win via score
+768,"smart 2: 0, 0.6",3,win via score
+769,approx q learning,0,win via score
+770,"smart 2: 0, 0.6",3,win via score
+771,"smart 2: 2, 0.6",2,win via score
+772,"smart 2: 0, 0.6",3,win via score
+773,"smart 2: 0, 0.4",1,win via score
+774,"smart 2: 0, 0.4",1,win via score
+775,approx q learning,0,win via score
+776,approx q learning,0,win via score
+777,"smart 2: 0, 0.6",3,win via score
+778,approx q learning,0,win via score
+779,"smart 2: 2, 0.6",2,win via score
+780,"smart 2: 0, 0.6",3,win via score
+781,"smart 2: 0, 0.6",3,win via score
+782,"smart 2: 2, 0.6",2,win via score
+783,"smart 2: 0, 0.4",1,win via score
+784,"smart 2: 2, 0.6",2,win via score
+785,"smart 2: 0, 0.6",3,win via score
+786,"smart 2: 0, 0.4",1,win via score
+787,"smart 2: 2, 0.6",2,win via elim
+788,approx q learning,0,win via score
+789,"smart 2: 0, 0.4",1,win via score
+790,"smart 2: 2, 0.6",2,win via score
+791,"smart 2: 0, 0.6",3,win via score
+792,"smart 2: 0, 0.4",1,win via score
+793,"smart 2: 2, 0.6",2,win via elim
+794,"smart 2: 0, 0.4",1,win via score
+795,"smart 2: 0, 0.6",3,win via score
+796,"smart 2: 2, 0.6",2,win via score
+797,approx q learning,0,win via score
+798,"smart 2: 0, 0.6",3,win via score
+799,approx q learning,0,win via score
+800,"smart 2: 2, 0.6",2,win via score
+801,"smart 2: 0, 0.6",3,win via score
+802,"smart 2: 0, 0.4",1,win via score
+803,"smart 2: 0, 0.4",1,win via score
+804,approx q learning,0,win via score
+805,approx q learning,0,win via score
+806,"smart 2: 0, 0.4",1,win via score
+807,"smart 2: 2, 0.6",2,win via score
+808,"smart 2: 0, 0.6",3,win via score
+809,"smart 2: 0, 0.4",1,win via score
+810,"smart 2: 2, 0.6",2,win via elim
+811,"smart 2: 2, 0.6",2,win via score
+812,"smart 2: 2, 0.6",2,win via score
+813,"smart 2: 2, 0.6",2,win via score
+814,"smart 2: 0, 0.6",3,win via score
+815,approx q learning,0,win via score
+816,approx q learning,0,win via score
+817,"smart 2: 0, 0.6",3,win via score
+818,"smart 2: 0, 0.6",3,win via score
+819,"smart 2: 0, 0.4",1,win via score
+820,"smart 2: 2, 0.6",2,win via score
+821,"smart 2: 0, 0.4",1,win via score
+822,"smart 2: 0, 0.6",3,win via score
+823,"smart 2: 0, 0.4",1,win via score
+824,approx q learning,0,win via score
+825,approx q learning,0,win via score
+826,"smart 2: 2, 0.6",2,win via score
+827,"smart 2: 0, 0.6",3,win via score
+828,"smart 2: 0, 0.6",3,win via score
+829,"smart 2: 2, 0.6",2,win via elim
+830,"smart 2: 0, 0.4",1,win via score
+831,"smart 2: 0, 0.4",1,win via score
+832,"smart 2: 0, 0.6",3,win via score
+833,"smart 2: 2, 0.6",2,win via elim
+834,"smart 2: 2, 0.6",2,win via score
+835,"smart 2: 0, 0.4",1,win via score
+836,"smart 2: 0, 0.4",1,win via score
+837,"smart 2: 0, 0.6",3,win via elim
+838,"smart 2: 0, 0.6",3,win via score
+839,"smart 2: 0, 0.4",1,win via score
+840,"smart 2: 2, 0.6",2,win via score
+841,"smart 2: 2, 0.6",2,win via score
+842,approx q learning,0,win via score
+843,"smart 2: 0, 0.6",3,win via score
+844,"smart 2: 0, 0.4",1,win via score
+845,"smart 2: 2, 0.6",2,win via score
+846,"smart 2: 2, 0.6",2,win via score
+847,"smart 2: 0, 0.4",1,win via score
+848,approx q learning,0,win via score
+849,"smart 2: 0, 0.6",3,win via score
+850,"smart 2: 0, 0.6",3,win via score
+851,"smart 2: 0, 0.4",1,win via score
+852,"smart 2: 0, 0.4",1,win via score
+853,approx q learning,0,win via score
+854,"smart 2: 0, 0.6",3,win via score
+855,"smart 2: 0, 0.4",1,win via score
+856,"smart 2: 2, 0.6",2,win via score
+857,"smart 2: 0, 0.6",3,win via score
+858,"smart 2: 2, 0.6",2,win via score
+859,"smart 2: 2, 0.6",2,win via score
+860,"smart 2: 2, 0.6",2,win via score
+861,"smart 2: 0, 0.6",3,win via score
+862,"smart 2: 0, 0.6",3,win via score
+863,"smart 2: 0, 0.6",3,win via score
+864,"smart 2: 0, 0.4",1,win via score
+865,"smart 2: 0, 0.6",3,win via elim
+866,approx q learning,0,win via score
+867,"smart 2: 0, 0.6",3,win via score
+868,approx q learning,0,win via score
+869,"smart 2: 2, 0.6",2,win via score
+870,"smart 2: 2, 0.6",2,win via score
+871,"smart 2: 2, 0.6",2,win via score
+872,"smart 2: 0, 0.4",1,win via score
+873,"smart 2: 2, 0.6",2,win via score
+874,"smart 2: 2, 0.6",2,win via score
+875,"smart 2: 0, 0.4",1,win via score
+876,"smart 2: 2, 0.6",2,win via score
+877,"smart 2: 0, 0.4",1,win via score
+878,"smart 2: 2, 0.6",2,win via score
+879,"smart 2: 2, 0.6",2,win via score
+880,"smart 2: 0, 0.4",1,win via score
+881,"smart 2: 2, 0.6",2,win via score
+882,"smart 2: 0, 0.4",1,win via score
+883,"smart 2: 2, 0.6",2,win via score
+884,"smart 2: 0, 0.4",1,win via score
+885,"smart 2: 2, 0.6",2,win via score
+886,"smart 2: 2, 0.6",2,win via score
+887,"smart 2: 2, 0.6",2,win via score
+888,"smart 2: 0, 0.4",1,win via score
+889,"smart 2: 2, 0.6",2,win via score
+890,"smart 2: 0, 0.4",1,win via score
+891,"smart 2: 0, 0.6",3,win via score
+892,"smart 2: 2, 0.6",2,win via score
+893,approx q learning,0,win via score
+894,"smart 2: 0, 0.6",3,win via score
+895,"smart 2: 2, 0.6",2,win via elim
+896,"smart 2: 0, 0.6",3,win via score
+897,"smart 2: 0, 0.4",1,win via score
+898,"smart 2: 0, 0.6",3,win via score
+899,"smart 2: 0, 0.6",3,win via score
+900,"smart 2: 2, 0.6",2,win via elim
+901,"smart 2: 2, 0.6",2,win via score
+902,"smart 2: 2, 0.6",2,win via score
+903,"smart 2: 0, 0.6",3,win via score
+904,"smart 2: 0, 0.6",3,win via score
+905,"smart 2: 2, 0.6",2,win via score
+906,"smart 2: 2, 0.6",2,win via score
+907,"smart 2: 2, 0.6",2,win via score
+908,"smart 2: 0, 0.6",3,win via score
+909,"smart 2: 0, 0.4",1,win via score
+910,"smart 2: 0, 0.4",1,win via score
+911,"smart 2: 2, 0.6",2,win via score
+912,"smart 2: 2, 0.6",2,win via score
+913,"smart 2: 2, 0.6",2,win via score
+914,"smart 2: 0, 0.4",1,win via score
+915,"smart 2: 0, 0.6",3,win via score
+916,"smart 2: 0, 0.6",3,win via score
+917,"smart 2: 0, 0.6",3,win via score
+918,approx q learning,0,win via score
+919,approx q learning,0,win via score
+920,"smart 2: 0, 0.4",1,win via elim
+921,"smart 2: 0, 0.4",1,win via score
+922,"smart 2: 0, 0.6",3,win via elim
+923,"smart 2: 0, 0.6",3,win via score
+924,"smart 2: 2, 0.6",2,win via elim
+925,"smart 2: 0, 0.4",1,win via score
+926,"smart 2: 2, 0.6",2,win via score
+927,approx q learning,0,win via score
+928,"smart 2: 0, 0.6",3,win via score
+929,"smart 2: 0, 0.6",3,win via elim
+930,"smart 2: 2, 0.6",2,win via score
+931,"smart 2: 0, 0.4",1,win via elim
+932,"smart 2: 0, 0.4",1,win via elim
+933,"smart 2: 0, 0.4",1,win via score
+934,"smart 2: 2, 0.6",2,win via score
+935,"smart 2: 2, 0.6",2,win via score
+936,"smart 2: 0, 0.4",1,win via score
+937,"smart 2: 0, 0.6",3,win via score
+938,"smart 2: 2, 0.6",2,win via score
+939,"smart 2: 2, 0.6",2,win via score
+940,"smart 2: 0, 0.4",1,win via score
+941,"smart 2: 0, 0.6",3,win via score
+942,"smart 2: 0, 0.4",1,win via score
+943,"smart 2: 0, 0.4",1,win via score
+944,"smart 2: 0, 0.6",3,win via score
+945,"smart 2: 2, 0.6",2,win via score
+946,"smart 2: 2, 0.6",2,win via score
+947,"smart 2: 0, 0.6",3,win via score
+948,"smart 2: 0, 0.6",3,win via score
+949,"smart 2: 2, 0.6",2,win via score
+950,"smart 2: 2, 0.6",2,win via score
+951,"smart 2: 0, 0.6",3,win via score
+952,"smart 2: 0, 0.6",3,win via score
+953,"smart 2: 0, 0.6",3,win via score
+954,"smart 2: 0, 0.6",3,win via score
+955,"smart 2: 2, 0.6",2,win via score
+956,approx q learning,0,win via score
+957,"smart 2: 0, 0.6",3,win via score
+958,approx q learning,0,win via score
+959,"smart 2: 0, 0.6",3,win via score
+960,"smart 2: 0, 0.6",3,win via score
+961,"smart 2: 0, 0.6",3,win via score
+962,"smart 2: 0, 0.4",1,win via score
+963,"smart 2: 2, 0.6",2,win via score
+964,"smart 2: 0, 0.4",1,win via score
+965,"smart 2: 0, 0.4",1,win via score
+966,"smart 2: 0, 0.6",3,win via elim
+967,"smart 2: 0, 0.4",1,win via score
+968,approx q learning,0,win via score
+969,"smart 2: 2, 0.6",2,win via score
+970,approx q learning,0,win via score
+971,approx q learning,0,win via score
+972,"smart 2: 0, 0.4",1,win via score
+973,approx q learning,0,win via score
+974,"smart 2: 2, 0.6",2,win via score
+975,"smart 2: 0, 0.4",1,win via score
+976,approx q learning,0,win via score
+977,"smart 2: 0, 0.6",3,win via elim
+978,"smart 2: 2, 0.6",2,win via score
+979,"smart 2: 0, 0.6",3,win via score
+980,"smart 2: 2, 0.6",2,win via score
+981,approx q learning,0,win via score
+982,"smart 2: 0, 0.4",1,win via score
+983,"smart 2: 0, 0.4",1,win via score
+984,"smart 2: 0, 0.6",3,win via elim
+985,"smart 2: 2, 0.6",2,win via score
+986,"smart 2: 0, 0.6",3,win via score
+987,"smart 2: 2, 0.6",2,win via score
+988,"smart 2: 2, 0.6",2,win via score
+989,approx q learning,0,win via score
+990,"smart 2: 0, 0.6",3,win via elim
+991,"smart 2: 2, 0.6",2,win via score
+992,"smart 2: 2, 0.6",2,win via score
+993,"smart 2: 2, 0.6",2,win via score
+994,"smart 2: 0, 0.4",1,win via score
+995,"smart 2: 2, 0.6",2,win via elim
+996,"smart 2: 2, 0.6",2,win via score
+997,"smart 2: 0, 0.4",1,win via score
+998,"smart 2: 2, 0.6",2,win via score
+999,"smart 2: 0, 0.6",3,win via score

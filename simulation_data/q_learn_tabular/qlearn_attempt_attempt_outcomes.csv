@@ -1,0 +1,1156 @@
+,player type,player,result
+0,"smart 2: 0, 0.5",1,win challange
+1,"smart 2: 1, 0.6",3,self lose challange
+2,"smart 2: 0, 0.5",1,lose challange
+3,player q learn attempt,0,lose challange
+4,player q learn attempt,0,lose challange
+5,player q learn attempt,0,lose challange
+6,player q learn attempt,0,self lose game
+7,"smart 2: 0, 0.5",1,self lose challange
+8,"smart 2: 0, 0.5",1,self lose challange
+9,player q learn attempt,0,win challange
+10,"smart 2: 0, 0.5",1,self lose challange
+11,player q learn attempt,0,lose challange
+12,"smart 2: 1, 0.6",3,lose challange
+13,player q learn attempt,0,lose challange
+14,player q learn attempt,0,lose challange
+15,player q learn attempt,0,lose game
+16,"smart 2: 1, 0.6",3,self lose challange
+17,"smart 2: 4, 0.7",2,self lose challange
+18,"smart 2: 4, 0.7",2,self lose challange
+19,"smart 2: 4, 0.7",2,self lose challange
+20,"smart 2: 4, 0.7",2,lose game
+21,"smart 2: 1, 0.6",3,win challange
+22,player q learn attempt,0,lose challange
+23,player q learn attempt,0,lose challange
+24,player q learn attempt,0,lose challange
+25,player q learn attempt,0,lose game
+26,"smart 2: 0, 0.5",1,self lose challange
+27,"smart 2: 1, 0.6",3,self lose challange
+28,"smart 2: 0, 0.5",1,lose challange
+29,"smart 2: 1, 0.6",3,self lose challange
+30,"smart 2: 0, 0.5",1,self lose challange
+31,"smart 2: 0, 0.5",1,lose game
+32,"smart 2: 1, 0.6",3,self lose challange
+33,"smart 2: 1, 0.6",3,win challange
+34,player q learn attempt,0,lose challange
+35,"smart 2: 1, 0.6",3,lose challange
+36,player q learn attempt,0,win challange
+37,"smart 2: 1, 0.6",3,lose challange
+38,player q learn attempt,0,win challange
+39,player q learn attempt,0,lose challange
+40,player q learn attempt,0,lose challange
+41,player q learn attempt,0,lose challange
+42,"smart 2: 0, 0.5",1,lose challange
+43,player q learn attempt,0,lose challange
+44,player q learn attempt,0,win challange
+45,player q learn attempt,0,win challange
+46,player q learn attempt,0,lose challange
+47,"smart 2: 0, 0.5",1,self lose challange
+48,"smart 2: 1, 0.6",3,lose challange
+49,player q learn attempt,0,win challange
+50,player q learn attempt,0,lose challange
+51,player q learn attempt,0,lose challange
+52,player q learn attempt,0,lose game
+53,"smart 2: 4, 0.7",2,self lose challange
+54,"smart 2: 0, 0.5",1,lose challange
+55,"smart 2: 4, 0.7",2,win challange
+56,"smart 2: 0, 0.5",1,self lose challange
+57,"smart 2: 4, 0.7",2,self lose challange
+58,"smart 2: 4, 0.7",2,self lose challange
+59,"smart 2: 0, 0.5",1,win challange
+60,player q learn attempt,0,lose challange
+61,player q learn attempt,0,lose challange
+62,player q learn attempt,0,lose challange
+63,player q learn attempt,0,win challange
+64,player q learn attempt,0,lose game
+65,"smart 2: 0, 0.5",1,self lose challange
+66,"smart 2: 0, 0.5",1,win challange
+67,"smart 2: 1, 0.6",3,win challange
+68,"smart 2: 0, 0.5",1,self lose challange
+69,"smart 2: 4, 0.7",2,self lose challange
+70,"smart 2: 0, 0.5",1,self lose challange
+71,"smart 2: 4, 0.7",2,win challange
+72,"smart 2: 0, 0.5",1,lose game
+73,"smart 2: 4, 0.7",2,self lose challange
+74,"smart 2: 1, 0.6",3,self lose challange
+75,"smart 2: 1, 0.6",3,lose challange
+76,"smart 2: 1, 0.6",3,self lose challange
+77,player q learn attempt,0,lose challange
+78,"smart 2: 1, 0.6",3,win challange
+79,"smart 2: 4, 0.7",2,lose challange
+80,"smart 2: 1, 0.6",3,lose game
+81,"smart 2: 0, 0.5",1,win challange
+82,player q learn attempt,0,lose challange
+83,"smart 2: 0, 0.5",1,lose challange
+84,player q learn attempt,0,lose challange
+85,player q learn attempt,0,lose game
+86,"smart 2: 4, 0.7",2,self lose challange
+87,player q learn attempt,0,lose challange
+88,"smart 2: 0, 0.5",1,win challange
+89,player q learn attempt,0,lose challange
+90,player q learn attempt,0,lose challange
+91,player q learn attempt,0,lose game
+92,"smart 2: 1, 0.6",3,lose challange
+93,"smart 2: 0, 0.5",1,lose challange
+94,"smart 2: 4, 0.7",2,self lose challange
+95,"smart 2: 4, 0.7",2,self lose challange
+96,"smart 2: 1, 0.6",3,lose challange
+97,player q learn attempt,0,lose challange
+98,"smart 2: 0, 0.5",1,self lose challange
+99,"smart 2: 0, 0.5",1,self lose challange
+100,player q learn attempt,0,lose challange
+101,"smart 2: 0, 0.5",1,lose challange
+102,"smart 2: 0, 0.5",1,self lose game
+103,player q learn attempt,0,lose challange
+104,player q learn attempt,0,lose game
+105,"smart 2: 1, 0.6",3,self lose challange
+106,"smart 2: 4, 0.7",2,win challange
+107,"smart 2: 1, 0.6",3,self lose challange
+108,"smart 2: 1, 0.6",3,self lose challange
+109,"smart 2: 1, 0.6",3,win challange
+110,player q learn attempt,0,lose challange
+111,player q learn attempt,0,lose challange
+112,"smart 2: 4, 0.7",2,self lose challange
+113,player q learn attempt,0,lose challange
+114,player q learn attempt,0,lose game
+115,"smart 2: 4, 0.7",2,self lose challange
+116,"smart 2: 0, 0.5",1,self lose challange
+117,"smart 2: 1, 0.6",3,self lose challange
+118,"smart 2: 4, 0.7",2,self lose challange
+119,"smart 2: 1, 0.6",3,win challange
+120,"smart 2: 4, 0.7",2,win challange
+121,"smart 2: 0, 0.5",1,lose challange
+122,player q learn attempt,0,lose challange
+123,"smart 2: 4, 0.7",2,self lose challange
+124,"smart 2: 0, 0.5",1,lose challange
+125,"smart 2: 1, 0.6",3,lose challange
+126,"smart 2: 4, 0.7",2,self lose challange
+127,"smart 2: 0, 0.5",1,self lose challange
+128,player q learn attempt,0,lose challange
+129,player q learn attempt,0,lose challange
+130,player q learn attempt,0,lose game
+131,"smart 2: 1, 0.6",3,lose challange
+132,"smart 2: 4, 0.7",2,self lose challange
+133,"smart 2: 4, 0.7",2,win challange
+134,"smart 2: 1, 0.6",3,win challange
+135,"smart 2: 1, 0.6",3,lose challange
+136,"smart 2: 1, 0.6",3,lose game
+137,"smart 2: 0, 0.5",1,self lose challange
+138,"smart 2: 0, 0.5",1,win challange
+139,player q learn attempt,0,lose challange
+140,"smart 2: 0, 0.5",1,lose challange
+141,"smart 2: 1, 0.6",3,self lose challange
+142,"smart 2: 1, 0.6",3,self lose challange
+143,player q learn attempt,0,lose challange
+144,"smart 2: 0, 0.5",1,win challange
+145,player q learn attempt,0,lose challange
+146,"smart 2: 0, 0.5",1,lose challange
+147,"smart 2: 1, 0.6",3,lose challange
+148,player q learn attempt,0,win challange
+149,player q learn attempt,0,lose game
+150,"smart 2: 1, 0.6",3,lose game
+151,"smart 2: 0, 0.5",1,self lose challange
+152,"smart 2: 4, 0.7",2,self lose challange
+153,player q learn attempt,0,win challange
+154,player q learn attempt,0,lose challange
+155,"smart 2: 1, 0.6",3,self lose challange
+156,"smart 2: 4, 0.7",2,self lose challange
+157,player q learn attempt,0,lose challange
+158,player q learn attempt,0,lose challange
+159,player q learn attempt,0,lose game
+160,"smart 2: 4, 0.7",2,self lose challange
+161,"smart 2: 1, 0.6",3,self lose challange
+162,"smart 2: 4, 0.7",2,lose game
+163,"smart 2: 1, 0.6",3,self lose challange
+164,"smart 2: 0, 0.5",1,win challange
+165,"smart 2: 0, 0.5",1,self lose challange
+166,"smart 2: 0, 0.5",1,self lose challange
+167,"smart 2: 0, 0.5",1,self lose challange
+168,player q learn attempt,0,lose challange
+169,player q learn attempt,0,lose challange
+170,player q learn attempt,0,win challange
+171,"smart 2: 0, 0.5",1,win challange
+172,player q learn attempt,0,lose challange
+173,player q learn attempt,0,lose game
+174,"smart 2: 4, 0.7",2,self lose challange
+175,"smart 2: 1, 0.6",3,win challange
+176,"smart 2: 4, 0.7",2,win challange
+177,"smart 2: 1, 0.6",3,self lose challange
+178,"smart 2: 1, 0.6",3,lose challange
+179,"smart 2: 4, 0.7",2,self lose challange
+180,"smart 2: 0, 0.5",1,lose challange
+181,player q learn attempt,0,lose challange
+182,"smart 2: 0, 0.5",1,lose challange
+183,player q learn attempt,0,lose challange
+184,"smart 2: 0, 0.5",1,lose challange
+185,player q learn attempt,0,win challange
+186,player q learn attempt,0,lose challange
+187,player q learn attempt,0,self lose game
+188,"smart 2: 0, 0.5",1,win challange
+189,"smart 2: 1, 0.6",3,lose challange
+190,"smart 2: 4, 0.7",2,lose challange
+191,"smart 2: 1, 0.6",3,self lose challange
+192,"smart 2: 1, 0.6",3,self lose challange
+193,"smart 2: 4, 0.7",2,self lose challange
+194,"smart 2: 4, 0.7",2,self lose challange
+195,"smart 2: 4, 0.7",2,win challange
+196,"smart 2: 0, 0.5",1,lose challange
+197,"smart 2: 0, 0.5",1,self lose challange
+198,"smart 2: 0, 0.5",1,lose challange
+199,player q learn attempt,0,lose challange
+200,"smart 2: 0, 0.5",1,self lose game
+201,player q learn attempt,0,lose challange
+202,"smart 2: 4, 0.7",2,self lose challange
+203,player q learn attempt,0,lose challange
+204,"smart 2: 1, 0.6",3,win challange
+205,player q learn attempt,0,lose game
+206,"smart 2: 4, 0.7",2,win challange
+207,"smart 2: 1, 0.6",3,lose challange
+208,player q learn attempt,0,lose challange
+209,"smart 2: 4, 0.7",2,self lose challange
+210,"smart 2: 0, 0.5",1,lose challange
+211,"smart 2: 0, 0.5",1,lose challange
+212,"smart 2: 1, 0.6",3,self lose challange
+213,player q learn attempt,0,lose challange
+214,player q learn attempt,0,lose challange
+215,player q learn attempt,0,self lose game
+216,"smart 2: 1, 0.6",3,self lose challange
+217,"smart 2: 0, 0.5",1,lose challange
+218,"smart 2: 4, 0.7",2,lose challange
+219,"smart 2: 0, 0.5",1,lose game
+220,"smart 2: 1, 0.6",3,win challange
+221,"smart 2: 4, 0.7",2,lose challange
+222,"smart 2: 4, 0.7",2,win challange
+223,player q learn attempt,0,lose challange
+224,player q learn attempt,0,lose challange
+225,player q learn attempt,0,lose challange
+226,player q learn attempt,0,lose game
+227,"smart 2: 1, 0.6",3,lose challange
+228,"smart 2: 0, 0.5",1,lose challange
+229,"smart 2: 0, 0.5",1,lose challange
+230,"smart 2: 0, 0.5",1,lose challange
+231,"smart 2: 1, 0.6",3,self lose challange
+232,"smart 2: 4, 0.7",2,win challange
+233,"smart 2: 0, 0.5",1,lose game
+234,"smart 2: 1, 0.6",3,self lose challange
+235,"smart 2: 4, 0.7",2,self lose challange
+236,player q learn attempt,0,lose challange
+237,player q learn attempt,0,lose challange
+238,"smart 2: 4, 0.7",2,self lose challange
+239,"smart 2: 0, 0.5",1,lose challange
+240,player q learn attempt,0,lose challange
+241,"smart 2: 0, 0.5",1,lose challange
+242,"smart 2: 0, 0.5",1,lose challange
+243,player q learn attempt,0,win challange
+244,player q learn attempt,0,lose challange
+245,"smart 2: 0, 0.5",1,lose challange
+246,player q learn attempt,0,lose challange
+247,player q learn attempt,0,win challange
+248,"smart 2: 0, 0.5",1,lose challange
+249,"smart 2: 0, 0.5",1,win challange
+250,player q learn attempt,0,lose challange
+251,player q learn attempt,0,lose game
+252,"smart 2: 0, 0.5",1,self lose challange
+253,"smart 2: 1, 0.6",3,lose challange
+254,"smart 2: 4, 0.7",2,self lose challange
+255,"smart 2: 0, 0.5",1,lose game
+256,"smart 2: 4, 0.7",2,self lose challange
+257,"smart 2: 1, 0.6",3,lose challange
+258,"smart 2: 4, 0.7",2,self lose challange
+259,"smart 2: 1, 0.6",3,win challange
+260,"smart 2: 1, 0.6",3,self lose challange
+261,player q learn attempt,0,lose challange
+262,player q learn attempt,0,lose challange
+263,player q learn attempt,0,lose challange
+264,"smart 2: 0, 0.5",1,lose challange
+265,player q learn attempt,0,lose game
+266,"smart 2: 0, 0.5",1,lose challange
+267,"smart 2: 4, 0.7",2,self lose challange
+268,"smart 2: 1, 0.6",3,self lose challange
+269,"smart 2: 0, 0.5",1,win challange
+270,"smart 2: 1, 0.6",3,lose challange
+271,"smart 2: 4, 0.7",2,self lose challange
+272,"smart 2: 4, 0.7",2,self lose challange
+273,"smart 2: 1, 0.6",3,self lose game
+274,"smart 2: 0, 0.5",1,self lose challange
+275,player q learn attempt,0,win challange
+276,"smart 2: 0, 0.5",1,win challange
+277,player q learn attempt,0,lose challange
+278,player q learn attempt,0,lose challange
+279,"smart 2: 1, 0.6",3,win challange
+280,player q learn attempt,0,lose challange
+281,player q learn attempt,0,self lose game
+282,"smart 2: 1, 0.6",3,lose challange
+283,"smart 2: 1, 0.6",3,self lose challange
+284,"smart 2: 4, 0.7",2,self lose challange
+285,"smart 2: 0, 0.5",1,self lose challange
+286,"smart 2: 4, 0.7",2,self lose challange
+287,"smart 2: 4, 0.7",2,self lose challange
+288,"smart 2: 0, 0.5",1,self lose challange
+289,player q learn attempt,0,win challange
+290,"smart 2: 0, 0.5",1,lose challange
+291,player q learn attempt,0,lose challange
+292,"smart 2: 0, 0.5",1,lose challange
+293,"smart 2: 0, 0.5",1,lose challange
+294,"smart 2: 0, 0.5",1,win challange
+295,player q learn attempt,0,lose challange
+296,"smart 2: 4, 0.7",2,win challange
+297,"smart 2: 0, 0.5",1,lose challange
+298,player q learn attempt,0,lose challange
+299,player q learn attempt,0,win challange
+300,"smart 2: 0, 0.5",1,lose challange
+301,player q learn attempt,0,lose challange
+302,player q learn attempt,0,lose challange
+303,player q learn attempt,0,lose challange
+304,player q learn attempt,0,self lose game
+305,"smart 2: 0, 0.5",1,lose challange
+306,"smart 2: 1, 0.6",3,lose challange
+307,"smart 2: 0, 0.5",1,self lose challange
+308,"smart 2: 1, 0.6",3,self lose challange
+309,"smart 2: 1, 0.6",3,self lose challange
+310,"smart 2: 1, 0.6",3,win challange
+311,player q learn attempt,0,lose challange
+312,"smart 2: 1, 0.6",3,self lose challange
+313,"smart 2: 1, 0.6",3,self lose challange
+314,player q learn attempt,0,lose challange
+315,"smart 2: 1, 0.6",3,self lose challange
+316,player q learn attempt,0,lose challange
+317,player q learn attempt,0,lose game
+318,"smart 2: 4, 0.7",2,self lose challange
+319,"smart 2: 0, 0.5",1,self lose challange
+320,"smart 2: 1, 0.6",3,lose game
+321,"smart 2: 0, 0.5",1,win challange
+322,"smart 2: 0, 0.5",1,self lose challange
+323,"smart 2: 4, 0.7",2,win challange
+324,"smart 2: 4, 0.7",2,self lose challange
+325,"smart 2: 4, 0.7",2,self lose challange
+326,"smart 2: 0, 0.5",1,self lose challange
+327,"smart 2: 1, 0.6",3,lose challange
+328,"smart 2: 0, 0.5",1,self lose challange
+329,"smart 2: 0, 0.5",1,win challange
+330,player q learn attempt,0,lose challange
+331,"smart 2: 4, 0.7",2,self lose challange
+332,"smart 2: 0, 0.5",1,lose challange
+333,"smart 2: 1, 0.6",3,self lose challange
+334,player q learn attempt,0,win challange
+335,player q learn attempt,0,lose challange
+336,"smart 2: 1, 0.6",3,self lose challange
+337,player q learn attempt,0,lose challange
+338,"smart 2: 0, 0.5",1,lose challange
+339,"smart 2: 4, 0.7",2,self lose challange
+340,"smart 2: 0, 0.5",1,lose challange
+341,player q learn attempt,0,lose game
+342,"smart 2: 1, 0.6",3,self lose challange
+343,"smart 2: 1, 0.6",3,lose game
+344,"smart 2: 4, 0.7",2,self lose challange
+345,"smart 2: 4, 0.7",2,win challange
+346,player q learn attempt,0,lose challange
+347,"smart 2: 0, 0.5",1,lose challange
+348,player q learn attempt,0,lose challange
+349,"smart 2: 1, 0.6",3,win challange
+350,"smart 2: 1, 0.6",3,lose challange
+351,player q learn attempt,0,lose challange
+352,player q learn attempt,0,lose game
+353,"smart 2: 1, 0.6",3,self lose challange
+354,"smart 2: 1, 0.6",3,self lose challange
+355,"smart 2: 1, 0.6",3,lose game
+356,"smart 2: 4, 0.7",2,self lose challange
+357,"smart 2: 0, 0.5",1,lose challange
+358,"smart 2: 0, 0.5",1,win challange
+359,"smart 2: 4, 0.7",2,win challange
+360,"smart 2: 0, 0.5",1,self lose challange
+361,player q learn attempt,0,win challange
+362,"smart 2: 0, 0.5",1,self lose challange
+363,player q learn attempt,0,lose challange
+364,player q learn attempt,0,lose challange
+365,player q learn attempt,0,lose challange
+366,player q learn attempt,0,lose game
+367,"smart 2: 1, 0.6",3,lose challange
+368,"smart 2: 4, 0.7",2,self lose challange
+369,"smart 2: 0, 0.5",1,self lose challange
+370,"smart 2: 4, 0.7",2,self lose challange
+371,"smart 2: 0, 0.5",1,win challange
+372,"smart 2: 4, 0.7",2,self lose challange
+373,"smart 2: 1, 0.6",3,self lose challange
+374,player q learn attempt,0,lose challange
+375,player q learn attempt,0,lose challange
+376,player q learn attempt,0,lose challange
+377,player q learn attempt,0,win challange
+378,player q learn attempt,0,lose challange
+379,"smart 2: 1, 0.6",3,self lose challange
+380,player q learn attempt,0,lose challange
+381,"smart 2: 0, 0.5",1,lose challange
+382,player q learn attempt,0,lose challange
+383,"smart 2: 0, 0.5",1,lose challange
+384,player q learn attempt,0,self lose game
+385,"smart 2: 4, 0.7",2,self lose challange
+386,"smart 2: 0, 0.5",1,lose challange
+387,"smart 2: 1, 0.6",3,lose challange
+388,"smart 2: 0, 0.5",1,win challange
+389,"smart 2: 4, 0.7",2,win challange
+390,"smart 2: 0, 0.5",1,lose game
+391,"smart 2: 0, 0.5",1,lose challange
+392,player q learn attempt,0,lose challange
+393,"smart 2: 0, 0.5",1,lose challange
+394,player q learn attempt,0,lose challange
+395,"smart 2: 1, 0.6",3,self lose challange
+396,player q learn attempt,0,win challange
+397,player q learn attempt,0,lose challange
+398,player q learn attempt,0,self lose game
+399,"smart 2: 1, 0.6",3,self lose challange
+400,"smart 2: 4, 0.7",2,lose challange
+401,"smart 2: 1, 0.6",3,self lose challange
+402,"smart 2: 1, 0.6",3,lose game
+403,"smart 2: 0, 0.5",1,win challange
+404,"smart 2: 4, 0.7",2,win challange
+405,"smart 2: 0, 0.5",1,lose challange
+406,"smart 2: 0, 0.5",1,lose challange
+407,"smart 2: 0, 0.5",1,lose challange
+408,player q learn attempt,0,win challange
+409,"smart 2: 1, 0.6",3,lose challange
+410,"smart 2: 4, 0.7",2,self lose challange
+411,player q learn attempt,0,lose challange
+412,"smart 2: 1, 0.6",3,self lose challange
+413,player q learn attempt,0,lose challange
+414,"smart 2: 0, 0.5",1,self lose challange
+415,player q learn attempt,0,lose challange
+416,player q learn attempt,0,lose challange
+417,player q learn attempt,0,lose game
+418,"smart 2: 4, 0.7",2,self lose challange
+419,"smart 2: 0, 0.5",1,self lose challange
+420,"smart 2: 0, 0.5",1,self lose challange
+421,"smart 2: 0, 0.5",1,lose game
+422,"smart 2: 1, 0.6",3,lose challange
+423,"smart 2: 4, 0.7",2,self lose challange
+424,"smart 2: 1, 0.6",3,self lose challange
+425,"smart 2: 4, 0.7",2,self lose challange
+426,"smart 2: 1, 0.6",3,self lose challange
+427,"smart 2: 4, 0.7",2,win challange
+428,player q learn attempt,0,lose challange
+429,player q learn attempt,0,lose challange
+430,"smart 2: 1, 0.6",3,self lose challange
+431,"smart 2: 4, 0.7",2,lose challange
+432,"smart 2: 4, 0.7",2,lose challange
+433,player q learn attempt,0,lose challange
+434,player q learn attempt,0,self lose game
+435,"smart 2: 0, 0.5",1,win challange
+436,"smart 2: 4, 0.7",2,lose challange
+437,"smart 2: 4, 0.7",2,win challange
+438,"smart 2: 0, 0.5",1,self lose challange
+439,"smart 2: 1, 0.6",3,self lose challange
+440,"smart 2: 0, 0.5",1,self lose challange
+441,"smart 2: 1, 0.6",3,self lose challange
+442,"smart 2: 1, 0.6",3,win challange
+443,"smart 2: 1, 0.6",3,win challange
+444,player q learn attempt,0,lose challange
+445,"smart 2: 0, 0.5",1,lose challange
+446,"smart 2: 1, 0.6",3,self lose challange
+447,"smart 2: 1, 0.6",3,lose challange
+448,"smart 2: 4, 0.7",2,self lose challange
+449,"smart 2: 1, 0.6",3,lose challange
+450,player q learn attempt,0,lose challange
+451,player q learn attempt,0,lose challange
+452,"smart 2: 0, 0.5",1,lose challange
+453,"smart 2: 0, 0.5",1,lose challange
+454,"smart 2: 0, 0.5",1,lose game
+455,"smart 2: 1, 0.6",3,self lose game
+456,player q learn attempt,0,win challange
+457,"smart 2: 4, 0.7",2,win challange
+458,"smart 2: 0, 0.5",1,lose challange
+459,player q learn attempt,0,lose challange
+460,"smart 2: 0, 0.5",1,lose challange
+461,player q learn attempt,0,lose challange
+462,player q learn attempt,0,win challange
+463,"smart 2: 0, 0.5",1,win challange
+464,player q learn attempt,0,lose challange
+465,player q learn attempt,0,self lose game
+466,"smart 2: 4, 0.7",2,self lose challange
+467,"smart 2: 0, 0.5",1,lose challange
+468,"smart 2: 1, 0.6",3,lose challange
+469,"smart 2: 4, 0.7",2,self lose challange
+470,"smart 2: 4, 0.7",2,self lose challange
+471,"smart 2: 1, 0.6",3,lose challange
+472,"smart 2: 0, 0.5",1,self lose game
+473,"smart 2: 4, 0.7",2,win challange
+474,"smart 2: 0, 0.5",1,win challange
+475,"smart 2: 0, 0.5",1,lose challange
+476,player q learn attempt,0,lose challange
+477,player q learn attempt,0,lose challange
+478,player q learn attempt,0,lose challange
+479,player q learn attempt,0,lose challange
+480,player q learn attempt,0,lose game
+481,"smart 2: 1, 0.6",3,self lose challange
+482,"smart 2: 0, 0.5",1,lose challange
+483,"smart 2: 0, 0.5",1,self lose challange
+484,"smart 2: 0, 0.5",1,lose challange
+485,"smart 2: 0, 0.5",1,win challange
+486,"smart 2: 4, 0.7",2,self lose challange
+487,"smart 2: 1, 0.6",3,win challange
+488,"smart 2: 1, 0.6",3,self lose challange
+489,"smart 2: 0, 0.5",1,lose game
+490,"smart 2: 4, 0.7",2,win challange
+491,"smart 2: 4, 0.7",2,self lose challange
+492,"smart 2: 1, 0.6",3,self lose challange
+493,"smart 2: 4, 0.7",2,self lose challange
+494,"smart 2: 0, 0.5",1,lose challange
+495,"smart 2: 1, 0.6",3,self lose challange
+496,player q learn attempt,0,lose challange
+497,"smart 2: 0, 0.5",1,lose challange
+498,"smart 2: 0, 0.5",1,lose challange
+499,"smart 2: 0, 0.5",1,win challange
+500,player q learn attempt,0,lose challange
+501,player q learn attempt,0,lose challange
+502,"smart 2: 0, 0.5",1,lose game
+503,player q learn attempt,0,self lose game
+504,"smart 2: 4, 0.7",2,win challange
+505,"smart 2: 1, 0.6",3,lose challange
+506,"smart 2: 4, 0.7",2,self lose challange
+507,"smart 2: 1, 0.6",3,lose challange
+508,"smart 2: 4, 0.7",2,self lose challange
+509,player q learn attempt,0,win challange
+510,"smart 2: 0, 0.5",1,lose challange
+511,player q learn attempt,0,lose challange
+512,player q learn attempt,0,lose challange
+513,"smart 2: 1, 0.6",3,self lose challange
+514,player q learn attempt,0,win challange
+515,player q learn attempt,0,lose challange
+516,"smart 2: 0, 0.5",1,lose challange
+517,player q learn attempt,0,lose challange
+518,player q learn attempt,0,lose challange
+519,"smart 2: 0, 0.5",1,lose challange
+520,"smart 2: 1, 0.6",3,self lose challange
+521,"smart 2: 1, 0.6",3,lose challange
+522,player q learn attempt,0,lose challange
+523,"smart 2: 0, 0.5",1,lose challange
+524,"smart 2: 4, 0.7",2,self lose challange
+525,player q learn attempt,0,lose challange
+526,player q learn attempt,0,lose challange
+527,player q learn attempt,0,lose game
+528,"smart 2: 0, 0.5",1,self lose challange
+529,"smart 2: 0, 0.5",1,lose game
+530,"smart 2: 1, 0.6",3,self lose challange
+531,"smart 2: 1, 0.6",3,win challange
+532,"smart 2: 1, 0.6",3,self lose challange
+533,player q learn attempt,0,win challange
+534,player q learn attempt,0,lose challange
+535,player q learn attempt,0,lose challange
+536,"smart 2: 1, 0.6",3,lose challange
+537,player q learn attempt,0,lose challange
+538,"smart 2: 1, 0.6",3,self lose challange
+539,"smart 2: 0, 0.5",1,lose challange
+540,player q learn attempt,0,lose challange
+541,player q learn attempt,0,self lose game
+542,"smart 2: 4, 0.7",2,self lose challange
+543,"smart 2: 1, 0.6",3,self lose challange
+544,"smart 2: 4, 0.7",2,self lose challange
+545,"smart 2: 0, 0.5",1,self lose challange
+546,"smart 2: 0, 0.5",1,self lose challange
+547,"smart 2: 1, 0.6",3,lose game
+548,"smart 2: 4, 0.7",2,self lose challange
+549,"smart 2: 0, 0.5",1,win challange
+550,player q learn attempt,0,lose challange
+551,player q learn attempt,0,lose challange
+552,player q learn attempt,0,lose challange
+553,"smart 2: 0, 0.5",1,lose challange
+554,player q learn attempt,0,self lose game
+555,"smart 2: 4, 0.7",2,self lose challange
+556,"smart 2: 0, 0.5",1,win challange
+557,"smart 2: 1, 0.6",3,lose challange
+558,"smart 2: 4, 0.7",2,self lose challange
+559,"smart 2: 0, 0.5",1,lose challange
+560,"smart 2: 0, 0.5",1,lose challange
+561,"smart 2: 1, 0.6",3,win challange
+562,"smart 2: 0, 0.5",1,lose game
+563,"smart 2: 4, 0.7",2,self lose challange
+564,"smart 2: 4, 0.7",2,win challange
+565,"smart 2: 0, 0.5",1,lose challange
+566,player q learn attempt,0,win challange
+567,player q learn attempt,0,lose challange
+568,player q learn attempt,0,lose challange
+569,player q learn attempt,0,lose challange
+570,"smart 2: 1, 0.6",3,self lose challange
+571,player q learn attempt,0,lose challange
+572,player q learn attempt,0,win challange
+573,"smart 2: 0, 0.5",1,lose challange
+574,"smart 2: 4, 0.7",2,self lose challange
+575,"smart 2: 0, 0.5",1,lose challange
+576,"smart 2: 4, 0.7",2,lose challange
+577,player q learn attempt,0,lose challange
+578,"smart 2: 0, 0.5",1,lose challange
+579,"smart 2: 4, 0.7",2,self lose challange
+580,"smart 2: 0, 0.5",1,self lose challange
+581,"smart 2: 0, 0.5",1,lose challange
+582,player q learn attempt,0,lose challange
+583,"smart 2: 0, 0.5",1,lose challange
+584,"smart 2: 0, 0.5",1,lose game
+585,player q learn attempt,0,lose challange
+586,player q learn attempt,0,lose challange
+587,"smart 2: 1, 0.6",3,self lose challange
+588,player q learn attempt,0,self lose game
+589,"smart 2: 4, 0.7",2,win challange
+590,"smart 2: 1, 0.6",3,self lose challange
+591,"smart 2: 4, 0.7",2,self lose challange
+592,"smart 2: 1, 0.6",3,self lose challange
+593,"smart 2: 1, 0.6",3,win challange
+594,"smart 2: 1, 0.6",3,lose challange
+595,player q learn attempt,0,lose challange
+596,player q learn attempt,0,lose challange
+597,"smart 2: 0, 0.5",1,lose challange
+598,player q learn attempt,0,win challange
+599,"smart 2: 4, 0.7",2,win challange
+600,"smart 2: 0, 0.5",1,lose challange
+601,player q learn attempt,0,lose challange
+602,"smart 2: 1, 0.6",3,lose challange
+603,"smart 2: 4, 0.7",2,self lose challange
+604,player q learn attempt,0,lose game
+605,"smart 2: 0, 0.5",1,win challange
+606,"smart 2: 1, 0.6",3,win challange
+607,"smart 2: 1, 0.6",3,win challange
+608,"smart 2: 0, 0.5",1,lose challange
+609,player q learn attempt,0,lose challange
+610,player q learn attempt,0,lose challange
+611,"smart 2: 0, 0.5",1,lose challange
+612,player q learn attempt,0,win challange
+613,player q learn attempt,0,lose challange
+614,player q learn attempt,0,self lose game
+615,"smart 2: 0, 0.5",1,lose challange
+616,"smart 2: 4, 0.7",2,win challange
+617,player q learn attempt,0,lose challange
+618,"smart 2: 4, 0.7",2,lose challange
+619,"smart 2: 1, 0.6",3,self lose challange
+620,player q learn attempt,0,win challange
+621,"smart 2: 1, 0.6",3,lose challange
+622,player q learn attempt,0,lose challange
+623,"smart 2: 1, 0.6",3,self lose challange
+624,player q learn attempt,0,lose challange
+625,player q learn attempt,0,lose challange
+626,"smart 2: 1, 0.6",3,win challange
+627,player q learn attempt,0,win challange
+628,player q learn attempt,0,lose challange
+629,player q learn attempt,0,lose game
+630,"smart 2: 1, 0.6",3,self lose challange
+631,"smart 2: 4, 0.7",2,self lose challange
+632,"smart 2: 1, 0.6",3,self lose challange
+633,"smart 2: 4, 0.7",2,self lose challange
+634,"smart 2: 0, 0.5",1,win challange
+635,"smart 2: 1, 0.6",3,self lose challange
+636,player q learn attempt,0,lose challange
+637,"smart 2: 1, 0.6",3,self lose challange
+638,player q learn attempt,0,lose challange
+639,"smart 2: 0, 0.5",1,lose challange
+640,player q learn attempt,0,lose challange
+641,player q learn attempt,0,lose game
+642,"smart 2: 4, 0.7",2,self lose challange
+643,"smart 2: 1, 0.6",3,self lose challange
+644,"smart 2: 1, 0.6",3,self lose challange
+645,"smart 2: 0, 0.5",1,lose challange
+646,"smart 2: 4, 0.7",2,self lose challange
+647,"smart 2: 0, 0.5",1,lose challange
+648,"smart 2: 4, 0.7",2,self lose challange
+649,"smart 2: 0, 0.5",1,win challange
+650,"smart 2: 1, 0.6",3,lose challange
+651,player q learn attempt,0,lose challange
+652,player q learn attempt,0,lose challange
+653,player q learn attempt,0,lose challange
+654,"smart 2: 0, 0.5",1,lose challange
+655,"smart 2: 1, 0.6",3,self lose challange
+656,player q learn attempt,0,lose game
+657,"smart 2: 1, 0.6",3,self lose challange
+658,"smart 2: 4, 0.7",2,self lose challange
+659,"smart 2: 0, 0.5",1,lose challange
+660,"smart 2: 4, 0.7",2,self lose challange
+661,"smart 2: 1, 0.6",3,win challange
+662,"smart 2: 4, 0.7",2,self lose challange
+663,"smart 2: 0, 0.5",1,lose challange
+664,player q learn attempt,0,lose challange
+665,player q learn attempt,0,lose challange
+666,player q learn attempt,0,lose challange
+667,"smart 2: 0, 0.5",1,lose challange
+668,player q learn attempt,0,lose game
+669,"smart 2: 1, 0.6",3,win challange
+670,"smart 2: 1, 0.6",3,self lose challange
+671,"smart 2: 4, 0.7",2,win challange
+672,"smart 2: 4, 0.7",2,self lose challange
+673,"smart 2: 1, 0.6",3,self lose challange
+674,"smart 2: 4, 0.7",2,lose challange
+675,"smart 2: 1, 0.6",3,self lose challange
+676,"smart 2: 0, 0.5",1,win challange
+677,player q learn attempt,0,win challange
+678,"smart 2: 0, 0.5",1,lose challange
+679,player q learn attempt,0,lose challange
+680,player q learn attempt,0,lose challange
+681,"smart 2: 1, 0.6",3,self lose challange
+682,player q learn attempt,0,lose challange
+683,"smart 2: 1, 0.6",3,win challange
+684,player q learn attempt,0,lose game
+685,"smart 2: 0, 0.5",1,lose challange
+686,"smart 2: 4, 0.7",2,lose challange
+687,"smart 2: 0, 0.5",1,lose challange
+688,"smart 2: 0, 0.5",1,win challange
+689,player q learn attempt,0,win challange
+690,"smart 2: 1, 0.6",3,lose challange
+691,"smart 2: 1, 0.6",3,win challange
+692,player q learn attempt,0,lose challange
+693,"smart 2: 0, 0.5",1,self lose challange
+694,player q learn attempt,0,lose challange
+695,player q learn attempt,0,lose challange
+696,player q learn attempt,0,lose challange
+697,player q learn attempt,0,lose game
+698,"smart 2: 0, 0.5",1,self lose challange
+699,"smart 2: 4, 0.7",2,self lose challange
+700,"smart 2: 0, 0.5",1,lose challange
+701,"smart 2: 1, 0.6",3,self lose challange
+702,"smart 2: 4, 0.7",2,self lose challange
+703,"smart 2: 1, 0.6",3,lose challange
+704,"smart 2: 4, 0.7",2,self lose challange
+705,"smart 2: 1, 0.6",3,lose challange
+706,"smart 2: 0, 0.5",1,self lose game
+707,"smart 2: 4, 0.7",2,win challange
+708,player q learn attempt,0,win challange
+709,player q learn attempt,0,lose challange
+710,player q learn attempt,0,lose challange
+711,"smart 2: 1, 0.6",3,self lose challange
+712,player q learn attempt,0,lose challange
+713,player q learn attempt,0,lose game
+714,"smart 2: 1, 0.6",3,self lose challange
+715,"smart 2: 1, 0.6",3,win challange
+716,"smart 2: 0, 0.5",1,lose challange
+717,"smart 2: 0, 0.5",1,win challange
+718,"smart 2: 4, 0.7",2,self lose challange
+719,"smart 2: 0, 0.5",1,lose challange
+720,"smart 2: 0, 0.5",1,lose challange
+721,"smart 2: 0, 0.5",1,win challange
+722,player q learn attempt,0,lose challange
+723,"smart 2: 0, 0.5",1,lose challange
+724,player q learn attempt,0,lose challange
+725,"smart 2: 1, 0.6",3,self lose challange
+726,player q learn attempt,0,lose challange
+727,"smart 2: 0, 0.5",1,self lose game
+728,player q learn attempt,0,lose game
+729,"smart 2: 4, 0.7",2,self lose challange
+730,"smart 2: 1, 0.6",3,lose challange
+731,"smart 2: 1, 0.6",3,self lose challange
+732,"smart 2: 1, 0.6",3,win challange
+733,"smart 2: 0, 0.5",1,lose challange
+734,player q learn attempt,0,lose challange
+735,player q learn attempt,0,lose challange
+736,player q learn attempt,0,lose challange
+737,"smart 2: 1, 0.6",3,self lose challange
+738,"smart 2: 4, 0.7",2,lose challange
+739,player q learn attempt,0,lose game
+740,"smart 2: 1, 0.6",3,self lose challange
+741,"smart 2: 0, 0.5",1,self lose challange
+742,"smart 2: 1, 0.6",3,self lose challange
+743,"smart 2: 1, 0.6",3,lose game
+744,"smart 2: 0, 0.5",1,win challange
+745,"smart 2: 0, 0.5",1,self lose challange
+746,"smart 2: 1, 0.6",3,lose challange
+747,player q learn attempt,0,lose challange
+748,player q learn attempt,0,lose challange
+749,"smart 2: 0, 0.5",1,lose challange
+750,player q learn attempt,0,lose challange
+751,"smart 2: 0, 0.5",1,win challange
+752,player q learn attempt,0,lose game
+753,"smart 2: 1, 0.6",3,lose challange
+754,"smart 2: 1, 0.6",3,self lose challange
+755,"smart 2: 4, 0.7",2,self lose challange
+756,"smart 2: 0, 0.5",1,lose challange
+757,"smart 2: 4, 0.7",2,self lose challange
+758,"smart 2: 0, 0.5",1,self lose challange
+759,"smart 2: 4, 0.7",2,self lose challange
+760,"smart 2: 4, 0.7",2,win challange
+761,"smart 2: 0, 0.5",1,self lose challange
+762,player q learn attempt,0,lose challange
+763,player q learn attempt,0,win challange
+764,player q learn attempt,0,lose challange
+765,player q learn attempt,0,lose challange
+766,player q learn attempt,0,self lose game
+767,"smart 2: 1, 0.6",3,lose challange
+768,"smart 2: 0, 0.5",1,self lose challange
+769,"smart 2: 4, 0.7",2,self lose challange
+770,"smart 2: 0, 0.5",1,self lose challange
+771,"smart 2: 0, 0.5",1,lose game
+772,"smart 2: 4, 0.7",2,self lose challange
+773,"smart 2: 1, 0.6",3,self lose challange
+774,"smart 2: 4, 0.7",2,self lose challange
+775,"smart 2: 4, 0.7",2,win challange
+776,"smart 2: 0, 0.5",1,lose challange
+777,player q learn attempt,0,lose challange
+778,"smart 2: 0, 0.5",1,lose challange
+779,"smart 2: 0, 0.5",1,win challange
+780,player q learn attempt,0,win challange
+781,player q learn attempt,0,lose challange
+782,"smart 2: 1, 0.6",3,lose challange
+783,"smart 2: 0, 0.5",1,lose challange
+784,"smart 2: 4, 0.7",2,lose challange
+785,"smart 2: 0, 0.5",1,lose challange
+786,player q learn attempt,0,lose challange
+787,"smart 2: 1, 0.6",3,self lose challange
+788,"smart 2: 4, 0.7",2,lose challange
+789,"smart 2: 0, 0.5",1,win challange
+790,player q learn attempt,0,lose challange
+791,player q learn attempt,0,lose challange
+792,player q learn attempt,0,lose game
+793,"smart 2: 1, 0.6",3,win challange
+794,"smart 2: 0, 0.5",1,lose challange
+795,player q learn attempt,0,lose challange
+796,player q learn attempt,0,lose challange
+797,"smart 2: 1, 0.6",3,self lose challange
+798,player q learn attempt,0,lose challange
+799,player q learn attempt,0,lose game
+800,"smart 2: 0, 0.5",1,lose challange
+801,"smart 2: 1, 0.6",3,lose challange
+802,"smart 2: 4, 0.7",2,self lose challange
+803,"smart 2: 1, 0.6",3,self lose challange
+804,"smart 2: 1, 0.6",3,lose game
+805,"smart 2: 0, 0.5",1,self lose challange
+806,"smart 2: 4, 0.7",2,self lose challange
+807,"smart 2: 4, 0.7",2,self lose challange
+808,"smart 2: 0, 0.5",1,win challange
+809,"smart 2: 0, 0.5",1,win challange
+810,player q learn attempt,0,lose challange
+811,player q learn attempt,0,lose challange
+812,"smart 2: 0, 0.5",1,lose challange
+813,"smart 2: 4, 0.7",2,self lose challange
+814,player q learn attempt,0,lose challange
+815,player q learn attempt,0,lose game
+816,"smart 2: 0, 0.5",1,self lose challange
+817,"smart 2: 4, 0.7",2,lose challange
+818,"smart 2: 1, 0.6",3,self lose challange
+819,"smart 2: 1, 0.6",3,self lose challange
+820,"smart 2: 0, 0.5",1,lose challange
+821,"smart 2: 0, 0.5",1,self lose game
+822,"smart 2: 4, 0.7",2,lose challange
+823,"smart 2: 1, 0.6",3,win challange
+824,player q learn attempt,0,lose challange
+825,player q learn attempt,0,lose challange
+826,player q learn attempt,0,lose challange
+827,"smart 2: 0, 0.5",1,lose challange
+828,player q learn attempt,0,lose game
+829,"smart 2: 1, 0.6",3,win challange
+830,"smart 2: 0, 0.5",1,self lose challange
+831,"smart 2: 1, 0.6",3,lose challange
+832,"smart 2: 0, 0.5",1,self lose challange
+833,player q learn attempt,0,lose challange
+834,"smart 2: 1, 0.6",3,self lose challange
+835,player q learn attempt,0,lose challange
+836,player q learn attempt,0,lose challange
+837,player q learn attempt,0,lose game
+838,"smart 2: 1, 0.6",3,self lose challange
+839,"smart 2: 0, 0.5",1,win challange
+840,"smart 2: 4, 0.7",2,win challange
+841,"smart 2: 0, 0.5",1,lose challange
+842,"smart 2: 0, 0.5",1,self lose challange
+843,"smart 2: 1, 0.6",3,self lose challange
+844,"smart 2: 4, 0.7",2,self lose challange
+845,"smart 2: 1, 0.6",3,lose game
+846,"smart 2: 4, 0.7",2,self lose challange
+847,"smart 2: 4, 0.7",2,self lose challange
+848,"smart 2: 0, 0.5",1,self lose challange
+849,player q learn attempt,0,lose challange
+850,player q learn attempt,0,lose challange
+851,"smart 2: 1, 0.6",3,lose challange
+852,player q learn attempt,0,lose challange
+853,player q learn attempt,0,lose game
+854,"smart 2: 4, 0.7",2,self lose challange
+855,"smart 2: 0, 0.5",1,lose challange
+856,"smart 2: 0, 0.5",1,self lose challange
+857,"smart 2: 1, 0.6",3,lose challange
+858,"smart 2: 4, 0.7",2,self lose challange
+859,"smart 2: 0, 0.5",1,self lose challange
+860,"smart 2: 0, 0.5",1,lose game
+861,"smart 2: 1, 0.6",3,lose challange
+862,"smart 2: 1, 0.6",3,win challange
+863,"smart 2: 1, 0.6",3,lose challange
+864,player q learn attempt,0,lose challange
+865,player q learn attempt,0,win challange
+866,"smart 2: 0, 0.5",1,lose challange
+867,"smart 2: 0, 0.5",1,lose challange
+868,player q learn attempt,0,lose challange
+869,player q learn attempt,0,lose challange
+870,player q learn attempt,0,lose challange
+871,player q learn attempt,0,lose game
+872,"smart 2: 0, 0.5",1,self lose challange
+873,"smart 2: 1, 0.6",3,lose challange
+874,"smart 2: 4, 0.7",2,self lose challange
+875,"smart 2: 1, 0.6",3,lose challange
+876,"smart 2: 4, 0.7",2,lose challange
+877,"smart 2: 0, 0.5",1,self lose challange
+878,"smart 2: 4, 0.7",2,self lose challange
+879,"smart 2: 0, 0.5",1,lose game
+880,"smart 2: 1, 0.6",3,win challange
+881,"smart 2: 1, 0.6",3,self lose challange
+882,player q learn attempt,0,lose challange
+883,"smart 2: 1, 0.6",3,lose challange
+884,player q learn attempt,0,lose challange
+885,player q learn attempt,0,lose challange
+886,player q learn attempt,0,lose game
+887,"smart 2: 0, 0.5",1,lose challange
+888,"smart 2: 1, 0.6",3,lose challange
+889,"smart 2: 0, 0.5",1,self lose challange
+890,"smart 2: 1, 0.6",3,win challange
+891,"smart 2: 0, 0.5",1,self lose challange
+892,player q learn attempt,0,lose challange
+893,player q learn attempt,0,lose challange
+894,"smart 2: 1, 0.6",3,win challange
+895,player q learn attempt,0,lose challange
+896,"smart 2: 0, 0.5",1,self lose challange
+897,player q learn attempt,0,lose game
+898,"smart 2: 1, 0.6",3,self lose challange
+899,"smart 2: 0, 0.5",1,win challange
+900,"smart 2: 1, 0.6",3,lose challange
+901,player q learn attempt,0,win challange
+902,"smart 2: 0, 0.5",1,lose challange
+903,player q learn attempt,0,lose challange
+904,player q learn attempt,0,lose challange
+905,"smart 2: 0, 0.5",1,win challange
+906,player q learn attempt,0,lose challange
+907,player q learn attempt,0,lose game
+908,"smart 2: 1, 0.6",3,lose challange
+909,"smart 2: 1, 0.6",3,lose challange
+910,"smart 2: 1, 0.6",3,lose challange
+911,"smart 2: 1, 0.6",3,lose challange
+912,"smart 2: 0, 0.5",1,self lose challange
+913,player q learn attempt,0,lose challange
+914,"smart 2: 4, 0.7",2,lose challange
+915,"smart 2: 1, 0.6",3,lose challange
+916,player q learn attempt,0,lose challange
+917,"smart 2: 0, 0.5",1,self lose challange
+918,player q learn attempt,0,lose challange
+919,player q learn attempt,0,lose game
+920,"smart 2: 1, 0.6",3,lose game
+921,"smart 2: 0, 0.5",1,self lose challange
+922,"smart 2: 4, 0.7",2,win challange
+923,"smart 2: 0, 0.5",1,lose challange
+924,player q learn attempt,0,win challange
+925,player q learn attempt,0,lose challange
+926,player q learn attempt,0,lose challange
+927,"smart 2: 0, 0.5",1,self lose challange
+928,player q learn attempt,0,lose challange
+929,player q learn attempt,0,lose game
+930,"smart 2: 1, 0.6",3,lose challange
+931,"smart 2: 1, 0.6",3,self lose challange
+932,"smart 2: 1, 0.6",3,self lose challange
+933,"smart 2: 4, 0.7",2,lose challange
+934,"smart 2: 4, 0.7",2,win challange
+935,"smart 2: 0, 0.5",1,self lose challange
+936,"smart 2: 0, 0.5",1,win challange
+937,"smart 2: 1, 0.6",3,win challange
+938,player q learn attempt,0,win challange
+939,"smart 2: 0, 0.5",1,lose challange
+940,player q learn attempt,0,lose challange
+941,"smart 2: 0, 0.5",1,lose challange
+942,player q learn attempt,0,lose challange
+943,"smart 2: 0, 0.5",1,win challange
+944,"smart 2: 4, 0.7",2,lose challange
+945,"smart 2: 1, 0.6",3,win challange
+946,"smart 2: 1, 0.6",3,self lose challange
+947,"smart 2: 0, 0.5",1,lose challange
+948,player q learn attempt,0,lose challange
+949,player q learn attempt,0,lose challange
+950,"smart 2: 0, 0.5",1,lose challange
+951,"smart 2: 0, 0.5",1,self lose challange
+952,player q learn attempt,0,win challange
+953,player q learn attempt,0,lose challange
+954,player q learn attempt,0,lose challange
+955,"smart 2: 0, 0.5",1,win challange
+956,player q learn attempt,0,lose challange
+957,"smart 2: 1, 0.6",3,self lose challange
+958,player q learn attempt,0,lose game
+959,"smart 2: 1, 0.6",3,self lose challange
+960,"smart 2: 0, 0.5",1,lose challange
+961,"smart 2: 0, 0.5",1,self lose challange
+962,"smart 2: 4, 0.7",2,lose challange
+963,"smart 2: 4, 0.7",2,self lose challange
+964,"smart 2: 0, 0.5",1,lose challange
+965,"smart 2: 0, 0.5",1,lose game
+966,"smart 2: 1, 0.6",3,lose challange
+967,"smart 2: 4, 0.7",2,self lose challange
+968,player q learn attempt,0,lose challange
+969,"smart 2: 1, 0.6",3,lose challange
+970,"smart 2: 4, 0.7",2,self lose challange
+971,player q learn attempt,0,lose challange
+972,"smart 2: 0, 0.5",1,lose challange
+973,"smart 2: 4, 0.7",2,self lose challange
+974,"smart 2: 0, 0.5",1,lose challange
+975,"smart 2: 1, 0.6",3,lose challange
+976,"smart 2: 1, 0.6",3,lose challange
+977,"smart 2: 4, 0.7",2,self lose challange
+978,"smart 2: 0, 0.5",1,win challange
+979,"smart 2: 4, 0.7",2,lose game
+980,"smart 2: 1, 0.6",3,lose game
+981,player q learn attempt,0,win challange
+982,"smart 2: 0, 0.5",1,self lose challange
+983,player q learn attempt,0,lose challange
+984,"smart 2: 1, 0.6",3,win challange
+985,player q learn attempt,0,win challange
+986,player q learn attempt,0,lose challange
+987,"smart 2: 0, 0.5",1,lose challange
+988,player q learn attempt,0,lose challange
+989,player q learn attempt,0,self lose game
+990,player q learn attempt,0,lose challange
+991,player q learn attempt,0,lose challange
+992,player q learn attempt,0,lose challange
+993,player q learn attempt,0,self lose game
+994,"smart 2: 0, 0.5",1,self lose challange
+995,"smart 2: 1, 0.6",3,win challange
+996,player q learn attempt,0,lose challange
+997,player q learn attempt,0,lose challange
+998,"smart 2: 0, 0.5",1,win challange
+999,player q learn attempt,0,lose challange
+1000,player q learn attempt,0,self lose game
+1001,"smart 2: 4, 0.7",2,lose challange
+1002,"smart 2: 4, 0.7",2,self lose challange
+1003,"smart 2: 1, 0.6",3,lose challange
+1004,"smart 2: 0, 0.5",1,self lose challange
+1005,"smart 2: 0, 0.5",1,lose challange
+1006,"smart 2: 4, 0.7",2,win challange
+1007,"smart 2: 1, 0.6",3,lose challange
+1008,"smart 2: 1, 0.6",3,self lose challange
+1009,"smart 2: 4, 0.7",2,self lose challange
+1010,"smart 2: 1, 0.6",3,lose challange
+1011,"smart 2: 1, 0.6",3,lose challange
+1012,player q learn attempt,0,lose challange
+1013,"smart 2: 1, 0.6",3,lose challange
+1014,"smart 2: 1, 0.6",3,self lose game
+1015,player q learn attempt,0,lose challange
+1016,"smart 2: 4, 0.7",2,self lose challange
+1017,"smart 2: 0, 0.5",1,lose challange
+1018,player q learn attempt,0,lose challange
+1019,"smart 2: 4, 0.7",2,self lose challange
+1020,"smart 2: 0, 0.5",1,lose challange
+1021,player q learn attempt,0,lose game
+1022,"smart 2: 0, 0.5",1,self lose challange
+1023,"smart 2: 4, 0.7",2,self lose challange
+1024,"smart 2: 0, 0.5",1,win challange
+1025,"smart 2: 4, 0.7",2,win challange
+1026,"smart 2: 0, 0.5",1,lose challange
+1027,player q learn attempt,0,lose challange
+1028,player q learn attempt,0,lose challange
+1029,player q learn attempt,0,win challange
+1030,"smart 2: 0, 0.5",1,self lose challange
+1031,player q learn attempt,0,lose challange
+1032,"smart 2: 0, 0.5",1,self lose challange
+1033,player q learn attempt,0,lose game
+1034,"smart 2: 0, 0.5",1,win challange
+1035,"smart 2: 4, 0.7",2,win challange
+1036,"smart 2: 0, 0.5",1,lose game
+1037,"smart 2: 1, 0.6",3,self lose challange
+1038,player q learn attempt,0,win challange
+1039,player q learn attempt,0,lose challange
+1040,player q learn attempt,0,lose challange
+1041,"smart 2: 1, 0.6",3,lose challange
+1042,player q learn attempt,0,lose challange
+1043,player q learn attempt,0,lose game
+1044,"smart 2: 0, 0.5",1,lose challange
+1045,"smart 2: 1, 0.6",3,lose challange
+1046,"smart 2: 1, 0.6",3,self lose challange
+1047,"smart 2: 0, 0.5",1,win challange
+1048,"smart 2: 1, 0.6",3,lose game
+1049,"smart 2: 0, 0.5",1,self lose challange
+1050,player q learn attempt,0,lose challange
+1051,player q learn attempt,0,lose challange
+1052,player q learn attempt,0,win challange
+1053,player q learn attempt,0,lose challange
+1054,player q learn attempt,0,lose game
+1055,"smart 2: 4, 0.7",2,self lose challange
+1056,"smart 2: 1, 0.6",3,win challange
+1057,"smart 2: 0, 0.5",1,lose challange
+1058,"smart 2: 1, 0.6",3,self lose challange
+1059,"smart 2: 4, 0.7",2,self lose challange
+1060,"smart 2: 4, 0.7",2,self lose challange
+1061,"smart 2: 0, 0.5",1,self lose challange
+1062,"smart 2: 4, 0.7",2,lose game
+1063,"smart 2: 0, 0.5",1,self lose challange
+1064,"smart 2: 1, 0.6",3,self lose challange
+1065,"smart 2: 1, 0.6",3,self lose challange
+1066,"smart 2: 0, 0.5",1,self lose challange
+1067,player q learn attempt,0,lose challange
+1068,"smart 2: 0, 0.5",1,lose challange
+1069,"smart 2: 4, 0.7",2,lose challange
+1070,"smart 2: 1, 0.6",3,lose challange
+1071,player q learn attempt,0,lose challange
+1072,"smart 2: 1, 0.6",3,lose challange
+1073,player q learn attempt,0,lose challange
+1074,player q learn attempt,0,self lose game
+1075,"smart 2: 0, 0.5",1,self lose challange
+1076,"smart 2: 1, 0.6",3,lose challange
+1077,"smart 2: 4, 0.7",2,win challange
+1078,"smart 2: 0, 0.5",1,win challange
+1079,"smart 2: 1, 0.6",3,lose game
+1080,"smart 2: 0, 0.5",1,self lose challange
+1081,player q learn attempt,0,lose challange
+1082,player q learn attempt,0,lose challange
+1083,player q learn attempt,0,win challange
+1084,player q learn attempt,0,lose challange
+1085,player q learn attempt,0,self lose game
+1086,"smart 2: 0, 0.5",1,win challange
+1087,"smart 2: 0, 0.5",1,lose challange
+1088,"smart 2: 1, 0.6",3,win challange
+1089,"smart 2: 0, 0.5",1,lose challange
+1090,"smart 2: 1, 0.6",3,self lose challange
+1091,"smart 2: 1, 0.6",3,self lose challange
+1092,"smart 2: 4, 0.7",2,win challange
+1093,"smart 2: 4, 0.7",2,self lose challange
+1094,"smart 2: 0, 0.5",1,lose game
+1095,"smart 2: 4, 0.7",2,self lose challange
+1096,"smart 2: 4, 0.7",2,self lose challange
+1097,"smart 2: 1, 0.6",3,self lose challange
+1098,"smart 2: 4, 0.7",2,win challange
+1099,player q learn attempt,0,lose challange
+1100,"smart 2: 1, 0.6",3,lose challange
+1101,player q learn attempt,0,lose challange
+1102,"smart 2: 1, 0.6",3,self lose challange
+1103,player q learn attempt,0,lose challange
+1104,player q learn attempt,0,lose game
+1105,"smart 2: 1, 0.6",3,self lose challange
+1106,"smart 2: 0, 0.5",1,win challange
+1107,"smart 2: 1, 0.6",3,lose game
+1108,player q learn attempt,0,lose challange
+1109,player q learn attempt,0,lose challange
+1110,player q learn attempt,0,lose challange
+1111,player q learn attempt,0,win challange
+1112,"smart 2: 0, 0.5",1,self lose challange
+1113,player q learn attempt,0,lose game
+1114,"smart 2: 4, 0.7",2,self lose challange
+1115,"smart 2: 1, 0.6",3,win challange
+1116,"smart 2: 0, 0.5",1,self lose challange
+1117,"smart 2: 0, 0.5",1,self lose challange
+1118,"smart 2: 1, 0.6",3,self lose challange
+1119,"smart 2: 4, 0.7",2,lose challange
+1120,"smart 2: 4, 0.7",2,self lose challange
+1121,"smart 2: 0, 0.5",1,lose game
+1122,"smart 2: 4, 0.7",2,win challange
+1123,player q learn attempt,0,lose challange
+1124,"smart 2: 0, 0.5",1,self lose challange
+1125,player q learn attempt,0,lose challange
+1126,player q learn attempt,0,lose challange
+1127,player q learn attempt,0,win challange
+1128,player q learn attempt,0,lose game
+1129,"smart 2: 0, 0.5",1,lose challange
+1130,"smart 2: 0, 0.5",1,self lose challange
+1131,"smart 2: 1, 0.6",3,win challange
+1132,"smart 2: 0, 0.5",1,win challange
+1133,"smart 2: 1, 0.6",3,lose challange
+1134,"smart 2: 4, 0.7",2,self lose challange
+1135,"smart 2: 0, 0.5",1,lose game
+1136,"smart 2: 4, 0.7",2,self lose challange
+1137,"smart 2: 1, 0.6",3,self lose challange
+1138,"smart 2: 1, 0.6",3,self lose challange
+1139,player q learn attempt,0,lose challange
+1140,player q learn attempt,0,lose challange
+1141,player q learn attempt,0,lose challange
+1142,player q learn attempt,0,self lose game
+1143,"smart 2: 1, 0.6",3,lose challange
+1144,"smart 2: 1, 0.6",3,win challange
+1145,"smart 2: 0, 0.5",1,win challange
+1146,player q learn attempt,0,lose challange
+1147,player q learn attempt,0,lose challange
+1148,player q learn attempt,0,lose challange
+1149,player q learn attempt,0,win challange
+1150,player q learn attempt,0,lose game
+1151,"smart 2: 1, 0.6",3,lose challange
+1152,"smart 2: 0, 0.5",1,win challange
+1153,"smart 2: 1, 0.6",3,self lose challange
+1154,"smart 2: 4, 0.7",2,self lose challange

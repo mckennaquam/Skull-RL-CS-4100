@@ -1,0 +1,13 @@
+flatt skull threshold is unintresting trying to make one as function of the contences in hand
+doing a flat multiplyer doesnt work bc then you get probabilites >1
+using a principle of laplace smoothing such that (1 + x) / (# of card + x)
+can switch to flower if i wanted to similate a nice player but i like this on principle
+
+in my orginal smart player code i think that it was raising always when they got to bet or raise
+will rerun simualtion if I have the time
+
+shout out to github
+https://gibberblot.github.io/rl-notes/single-agent/function-approximation.html
+
+
+
